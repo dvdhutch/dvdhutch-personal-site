@@ -9,7 +9,9 @@ The dawn of the age of information has come with great strides in the inter-conn
 
 Leonard Bernstein’s second symphony, entitled *The Age of Anxiety*, based on W.H. Auden’s Pulitzer Prize winning [poem](http://assets.press.princeton.edu/chapters/i9412.pdf) of the same name, is a very unorthodox work in the setting of the traditional classical canon. It features a score for orchestra and solo piano, as well as a six-part outline (following the six sections of Auden’s “The Age of Anxiety”.) Auden’s long-form poem follows four protagonists carrying out their lives in 1939 New York City — during the events of World War II. Though noted for its immense length, the poem breaks down the thoughts and feelings of each character as they share their ideas over drinks in a bar.
 
+<p>
 ![Leonard Bernstein, world-renowned composer, musician, and teacher.](/public/images/anxiety/bernstein.jpeg)
+</p>
 
 Much of “The Age of Anxiety”, and Bernstein’s composition of the same name, blurs between movements, often resulting in some hurried confusion among listeners and readers. The shared brokenness between characters, which is also expressed through Bernstein’s careful attention to tonality, unifies all of the weakened individual voices, highlighting themes of their shared humanity and effort to push forth towards a greater future.
 
