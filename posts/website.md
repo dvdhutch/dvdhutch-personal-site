@@ -62,12 +62,12 @@ The best part of using Next.js is that it is *extremely* simple to add posts to 
 
 - Navigate to /posts in your project file. You can do this in either your code editor or your terminal, substituting "project_name" with the name of your project folder
 
-    $ cd project_name
-    $ cd posts
+        cd project_name
+        cd posts
 
 - Create a new file. You can do this in either your code editor or your terminal. Name it whatever you'd like, followed by .md (*ex. transit.md*)
 
-    $ touch transit.md
+        touch transit.md
 
 - Commit the changes to GitHub. This process is outlined above
 - Refresh the site and watch as Vercel handles the deployment
@@ -81,7 +81,7 @@ While you can purchase a domain directly from Vercel, I chose to use [Google Dom
 
 Choosing a domain name doesn't have to be a complicated task, but I think there a couple guideposts you should keep in mind.
 
-Here's an interesting [post](https://www.quora.com/How-did-Stripe-come-up-with-its-name) from the former CTO of [Stripe](https://stripe.com) that details how the company settles on its name.
+Here's an interesting [post](https://www.quora.com/How-did-Stripe-come-up-with-its-name) from the former CTO of [Stripe](https://stripe.com) that details how the company chose its name.
 
 tl;dr: Choose a short(er) noun, or something quick and familiar. While the context of the early days of Stripe's naming debate is for startups, I think this applies more generally across domains. Keep it short and familiar, while maintaing relevance to the actual content or service.
 
