@@ -3,6 +3,8 @@ title: 'The Age of Anxiety (and other debacles of the 21st century quaran-teen)'
 date: '2020-12-05'
 ---
 
+*This post was intially published on [Medium](https://medium.com/@davidmhutchinson/the-age-of-anxiety-and-other-debacles-of-the-21st-century-quaran-teen-60d265bbe751)*
+
 The dawn of the age of information has come with great strides in the inter-connectedness of the global populous. Never before have we been so close as a global community. Never before have we been so distant from one another.
 
 Leonard Bernstein’s second symphony, entitled *The Age of Anxiety*, based on W.H. Auden’s Pulitzer Prize winning [poem](http://assets.press.princeton.edu/chapters/i9412.pdf) of the same name, is a very unorthodox work in the setting of the traditional classical canon. It features a score for orchestra and solo piano, as well as a six-part outline (following the six sections of Auden’s “The Age of Anxiety”.) Auden’s long-form poem follows four protagonists carrying out their lives in 1939 New York City — during the events of World War II. Though noted for its immense length, the poem breaks down the thoughts and feelings of each character as they share their ideas over drinks in a bar.
