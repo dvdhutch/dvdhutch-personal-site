@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p> Hi, I'm David 👋 </p>
         <p> I'm interested in making education work better for the next generation of teachers. </p>
         <p> I lead <a href="https://suoni-build-3.webflow.io/">Suoni</a>, where we work on making resources more accessible for teachers. </p>
-        <p> I study music education at <a href="https://www.arts.psu.edu">Penn State</a> and am a scholar in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy</a>.
+        <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a scholar in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
         </p>
       </section>
 
