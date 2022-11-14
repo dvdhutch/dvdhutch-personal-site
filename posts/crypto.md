@@ -9,4 +9,6 @@ It’s easy to look at this collapse and make fun of what happened, but the down
 
 Despite all of this, right now is probably the best time to be building a company. The 2008 recession [proved](https://twitter.com/antoniogm/status/1591829689076965377) to be a watershed moment for the last iteration of tech. Airbnb, Uber, Twitter were all forged in the ‘dark times’. Less access to capital means smarter decision making, point blank. As I move forward building in EdTech, I’m excited about the prospects of a market that is no longer over-saturated with nonsense (Suoni demo link [here](https://suoni-build-3.webflow.io/!). DeFi & crypto companies will either become default alive or meet the watery fate of FTX. Crypto is dead, long live crypto.
 
-*This [post] (https://sites.psu.edu/academy/2022/11/13/crypto-is-dead-long-live-crypto/) was intially published as a part of the Penn State Presidential Leadership Academy. Its contents do not represent The Pennsylvania State University or the Penn State Presidential Leadership Academy*
+*This post was intially published as a part of the Penn State Presidential Leadership Academy. Its contents do not represent The Pennsylvania State University or the Penn State Presidential Leadership Academy*
+
+View the original post [here](https://sites.psu.edu/academy/2022/11/13/crypto-is-dead-long-live-crypto/).
