@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            {header_links()}
+
 
             <Image
               priority
@@ -38,20 +38,9 @@ export default function Layout({ children, home }) {
               width={200}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
-
-            <h3 style={{marginBottom: neg_margin_on_links}}> 
-            <a href="https://drive.google.com/file/d/1k3JSrN3WBgRfVW_7n5N2oYpYJyrzM0oG/view" className="button" target="_blank">Resume</a>
-            &nbsp;|&nbsp;
-            <a href="https://twitter.com/dvdhutch" className="button" target="_blank">Twitter</a>
-            &nbsp;|&nbsp;
-            <a href="https://www.linkedin.com/in/dvdhutch/" className="button" target="_blank">LinkedIn</a>
-            </h3>
           </>
         ) : (
           <>
-
-            {header_links()}
 
             <Link href="/">
               <a>
