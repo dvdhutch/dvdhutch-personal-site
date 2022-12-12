@@ -28,8 +28,6 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-
-
             <Image
               priority
               src="/images/profile.jpg"
@@ -38,6 +36,7 @@ export default function Layout({ children, home }) {
               width={200}
               alt={name}
             />
+            <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
           <>
