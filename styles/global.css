@@ -17,6 +17,15 @@ a {
   text-decoration: none;
 }
 
+a.nav {
+  color: #0070f3;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #CCC
+}
+
 a:hover {
   text-decoration: underline;
 }
