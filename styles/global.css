@@ -26,8 +26,8 @@ a:hover {
   padding: 10px 20px; /* Add some padding to the button */
   border: 0; /* Remove the default border */
   border-radius: 5px; /* Add rounded corners to the button */
-  background-color: #000; /* Set the background color of the button */
-  color: #FFF; /* Set the text color of the button */
+  background-color: rgb(219, 219, 219); /* Set the background color of the button */
+  color: #000; /* Set the text color of the button */
   font-size: 16px; /* Set the font size of the button text */
   font-weight: bold; /* Make the button text bold */
   cursor: pointer; /* Add a cursor to the button on hover */
