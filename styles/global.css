@@ -17,16 +17,6 @@ a {
   text-decoration: none;
 }
 
-a.link {
-  color: #0070f3;
-  text-decoration: none;
-  width: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #CCC
-}
-
 a:hover {
   text-decoration: underline;
 }

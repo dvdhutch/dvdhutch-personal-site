@@ -26,9 +26,9 @@ export default function Home({ allPostsData }) {
         <p> I lead <a href="https://suoni-build-3.webflow.io/">Suoni</a>, where we work on making resources more accessible for teachers. </p>
         <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a scholar in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
         </p>
-        <p> <a class="link" href="https://twitter.com/dvdhutch">Twitter</a></p>
-        <p> <a class="link" href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
-        <p> <a class="link" href="https://drive.google.com/file/d/1k3JSrN3WBgRfVW_7n5N2oYpYJyrzM0oG/view?usp=sharing">Resume</a></p>
+        <p> <a href="https://twitter.com/dvdhutch">Twitter</a></p>
+        <p> <a href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
+        <p> <a href="https://drive.google.com/file/d/1k3JSrN3WBgRfVW_7n5N2oYpYJyrzM0oG/view?usp=sharing">Resume</a></p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
