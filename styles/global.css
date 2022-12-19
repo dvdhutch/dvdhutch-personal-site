@@ -32,6 +32,7 @@ a:hover {
   font-weight: bold; /* Make the button text bold */
   cursor: pointer; /* Add a cursor to the button on hover */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle drop shadow to the button */
+  margin: auto; /* Center the button on the page */
 }
 
 .button:hover {
