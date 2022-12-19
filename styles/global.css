@@ -21,6 +21,28 @@ a:hover {
   text-decoration: underline;
 }
 
+.button {
+  display: inline-block; /* Make the button an inline-block element */
+  padding: 10px 20px; /* Add some padding to the button */
+  border: 0; /* Remove the default border */
+  border-radius: 5px; /* Add rounded corners to the button */
+  background-color: #000; /* Set the background color of the button */
+  color: #FFF; /* Set the text color of the button */
+  font-size: 16px; /* Set the font size of the button text */
+  font-weight: bold; /* Make the button text bold */
+  cursor: pointer; /* Add a cursor to the button on hover */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle drop shadow to the button */
+}
+
+.button:hover {
+  background-color: #444; /* Change the background color on hover */
+}
+
+.button:active {
+  background-color: #333; /* Change the background color when the button is active */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* Change the drop shadow on active state */
+}
+
 img {
   max-width: 100%;
   display: block;
