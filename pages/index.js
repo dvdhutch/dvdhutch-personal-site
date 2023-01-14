@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p> Hi, I'm David 👋 </p>
         <p> I'm interested in making education work better for the next generation of teachers. </p>
-        <p> I lead <a href="https://suoni-build-3.webflow.io/">Suoni</a>, where we work on making resources more accessible for teachers. </p>
+        <p> I lead <a href="https://www.suoni.co">Suoni</a>, where we work on making resources more accessible for teachers. </p>
         <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a scholar in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
         </p>
         <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
