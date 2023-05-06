@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> Hi, I'm David 👋 </p>
-        <p> What important truth do very few people agree with you on? Or, to the entrepreneur, what valuable company is nobody building? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </p>
+        <p> What important truth do very few people agree with you on? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </p>
         <p> I work as a Product Manager at <a href="https://www.liveohana.ai">Ohana</a> and am an incoming teacher at the <a href="https://www.goprojectnyc.org">GO Project</a> in New York. </p>
         <p> Previously, I led <a href="https://www.suoni.co">Suoni</a>, where I worked on making resources more accessible for teachers. </p>
         <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a fellow in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
