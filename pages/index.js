@@ -22,9 +22,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> Hi, I'm David 👋 </p>
-        <p> I'm interested in making education work better for the next generation of teachers. </p>
-        <p> I lead <a href="https://www.suoni.co">Suoni</a>, where we work on making resources more accessible for teachers. </p>
-        <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a scholar in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
+        <p> Some of the things I spend the most time thinking about include the future of technology in education, human geography, disparities in public transit access, and ethnomusicology, among other things. </p>
+        <p> I work as a Product Manager at <a href="https://www.liveohana.ai">Ohana</a> and am an incoming teacher at the <a href="https://www.goprojectnyc.org">GO Project</a> in New York. </p>
+        <p> Previously, I led <a href="https://www.suoni.co">Suoni</a>, where I worked on making resources more accessible for teachers. </p>
+        <p> I am a student in the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and a fellow in the <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
         </p>
         <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
         <p> <a class='button' href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
