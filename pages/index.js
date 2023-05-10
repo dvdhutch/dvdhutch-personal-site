@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> 👋 Hi, I'm David </p>
-        <p> 📍 I'm in <b>Pennsylvania, USA</b></p>
+        <p> 📍 I'm in <b>London, England</b></p>
         <p> 📚 Currently, I'm reading: <i>The Power Law: Venture Capital and the Making of the New Future</i> and <i>Greenlights</i></p>
         <p> <b> What important truth do very few people agree with you on? Or, to the entrepreneur, what valuable company is nobody building? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </b> </p>
         <p> Without fail, this question leads me to ponder, as I try to understand and piece together solutions to problems. Outwardly people describe me as calm and affable but inwardly I can't sit still and am always trying to figure out what comes next.</p>
