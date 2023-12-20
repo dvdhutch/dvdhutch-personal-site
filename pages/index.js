@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> 👋 Hi, I'm David </p>
-        <p> 📍 I'm in <b>State College, Pennsylvania</b></p>
-        <p> 📚 Currently, I'm reading: <i>How to Hide an Empire: A Short History of the Greater United States</i> and <i>A Waiter in Paris</i></p>
+        <p> 📍 I'm in <b>Williamsport, Pennsylvania</b></p>
+        <p> 📚 Currently, I'm reading: <i>Land of Promise: An Economic History of the United States</i> and <i>A Waiter in Paris</i></p>
         <p> <b> What important truth do very few people agree with you on? Or, to the entrepreneur, what valuable company is nobody building? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </b> </p>
         <p> Without fail, this question leads me to ponder, as I try to understand and piece together solutions to problems. Outwardly people describe me as calm and affable but inwardly I can't sit still and am always trying to figure out what comes next.</p>
         <p> Some of the things I'm most interested in include education technology, and in particular, the role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education, the <a href="http://paulgraham.com/cities.html">stories</a> cities tell, <a href="https://ourworldindata.org/">visualizing</a> human geography, particularly in the context of highlighting the <a href="https://www.segregationbydesign.com/">failure of urban renewal projects</a> and advocating for continued investment in large, sustainable <a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">infrastructure projects</a> in America, and by extension the world. </p>
@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
         </p>
         <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
         <p> <a class='button' href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
-        <p> <a class='button' href="https://drive.google.com/file/d/1k3JSrN3WBgRfVW_7n5N2oYpYJyrzM0oG/view?usp=sharing">Resume</a></p>
+        <p> <a class='button' href="https://drive.google.com/file/d/1jZ9aWWLsgyaNZreuNctSQfnybh_8524H/view?usp=sharing">Resume</a></p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
