@@ -9,8 +9,8 @@ It’s important to note that there’s no ‘one-size-fits-all’ approach to g
 
 **It’s better to have a large impact on a few things than a small impact on many things**
 
-> Your time is limited, so don’t waste it living someone else’s life.
-> – Steve Jobs
+> *Your time is limited, so don’t waste it living someone else’s life.*
+> Steve Jobs
 
 One of the temptations of the undergraduate is to become involved in as many things as possible. Perhaps this is carry-over from high school, where the common refrain says something like “be in as many clubs as possible so that you will be well-rounded and have the best odds of getting into a T-20 school.” This is a false presumption.
 
@@ -24,8 +24,8 @@ Identify when you are most productive and least productive. For me, that’s ear
 
 Critical for me. PLA has helped me immensely here! I think of values in the same vein as habits. People with successful habits build them on strong values — which compounds their success in the long run. Don’t discount the important of religion, either. Understand that humans are naturally spiritual, and consider how your values impact your physical health, mental health, and spiritual health.
 
-> Everyone has a plan until they get punched in the mouth.
-> – Mike Tyson
+> *Everyone has a plan until they get punched in the mouth.*
+> Mike Tyson
 
 Your values are what you fall back on when you get punched in the mouth. How will you choose to react?
 
@@ -67,17 +67,17 @@ Never stop asking questions. Ever. Sure, people that are ferociously curious are
 
 The world can take everything from me, but as long as there is an earth to explore, I’ll be okay. In place of further prose, enjoy some Anthony Bourdain quotes, who is the human epitome of this spirit.
 
-> If you’re twenty-two, physically fit, hungry to learn and be better, I urge you to travel – as far and as widely as possible. Sleep on floors if you have to. Find out how other people live and eat 
-> and cook. Learn from them – wherever you go.
+> *If you’re twenty-two, physically fit, hungry to learn and be better, I urge you to travel – as far and as widely as possible. Sleep on floors if you have to. Find out how other people live and eat*
+> *and cook. Learn from them – wherever you go.*
 >
-> Travel changes you. As you move through this life and this world you change things slightly, you 
-> leave marks behind, however small. And in return, life – and travel – leaves marks on you. Most of the time, those marks – on your body or on your heart – are beautiful. Often, though, they hurt.
+> *Travel changes you. As you move through this life and this world you change things slightly, you*
+> *leave marks behind, however small. And in return, life – and travel – leaves marks on you. Most of the time, those marks – on your body or on your heart – are beautiful. Often, though, they hurt.*
 >
-> I’ve long believed that good food, good eating, is all about risk. Whether we’re talking about 
-> unpasteurized Stilton, raw oysters or working for organized crime ‘associates,’ food, for me, has 
-> always been an adventure
+> *I’ve long believed that good food, good eating, is all about risk. Whether we’re talking about*
+> *unpasteurized Stilton, raw oysters or working for organized crime ‘associates,’ food, for me, has* 
+> *always been an adventure*
 >
-> The way you make an omelet reveals your character.
+> *The way you make an omelet reveals your character.*
 
 **Live your life excellently**
 
