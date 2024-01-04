@@ -1,0 +1,16 @@
+---
+title: 'Ohio State away'
+date: '2023-10-18'
+---
+
+On Saturday, the Blue Band will march out in front of 102,000+ fans in Ohio Stadium, the nation’s third-largest football stadium. As a student at Penn State, I’ve witnessed four contests between the Nittany Lions and the Buckeyes, and played at my first game against the Buckeyes last year, which was a thrilling, albeit disappointing loss in the end. Furthermore, Penn State has not defeated the team from Columbus since 2016, when Penn State returned a blocked punt for a touchdown and held on to win in a barn burner. Yet, something is in the air in Happy Valley this autumn. Penn State comes off of an impressive set of wins to open the season — in fact, they lead the nation in number of games to score over 30 points (13). Offensive woes shaken, this young roster looks set to disrupt an Ohio State team that faces immense pressure from the national media.
+
+**Fanbase expectations**
+
+James Franklin’s team is blessed with proud, supportive fans, and even one of the world’s largest living alumni networks. With that comes expectations for success, something that has come in to question at points during Franklin’s tenure as Head Coach. What fans are apt to forget, however, is just how far this team has come in the James Franklin era. For instance, during the 2014 season, Penn State had specific quotas regarding scholarships it could provide and transfer portal availability which gave them an outsized disadvantage relative to other B1G teams. Franklin has since led Penn State to 11 bowl appearances in 12 years (exception being 2020), one of six FBS coaches to do the same. Nevertheless, the argument still arises in the fanbase that Penn State “just can’t win the big one”. For better or worse, this is probably true — the Nittany Lions are 3-15 against top 10 opponents. So, it’s only natural the fanbase expects 1) a playoff berth, and 2) a win against either Ohio State or Michigan. If Franklin is able to walk out of ‘The Shoe’ on Saturday afternoon with a win, it would go a long way to establishing his legacy with the program and legitimizing Penn State’s CFP hopes.
+
+Speaking more generally, Ohio State is in a fickle spot with the national media and their own fanbase. Their brand reputation and past prestige warrant a certain level of respect, as well as perennial high expectations. In some ways, I empathize with Ryan Day, who has by all accounts been wildly successful as head coach of the Buckeyes. Sports media constantly picks out flaws with Ohio State’s play, even when they sneak out a win, as they did against a good Notre Dame team in South Bend. For the Buckeyes, the key to winning this game is to stay calm and rely on their talent (which I hope they are unsuccessful at).
+
+**Reflection**
+
+I’ve had the privilege to represent this university at many football games durning my time as a student, but I am particularly excited to travel to Ohio State and play at ‘The Shoe’. While home games in Beaver Stadium are fun, playing at a competitive road environment brings it to a whole new energy level. When we step off for pregame, I’m fully expecting a chorus of ‘boos’ from the Buckeye faithful. The opportunity to represent the Blue Band, the university, and Pennsylvania writ large is exciting and I cannot wait to get on the road to Columbus.
