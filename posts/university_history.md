@@ -11,8 +11,10 @@ The tradition of the university — perhaps best though of as an idea rather tha
 
 It is important to understand the impact of the university as a force for good across the globe through its longstanding relationship to broad ideas like individualism, liberalism, tolerance, and academic freedom. Importantly, the university divorced itself from religion, forming the bedrock of secular education as we know it today; this has resulted in positive learning outcomes being concentrated in the Western World (which have since proliferated across the rest of the world).
 
-One example of this is the Harvard Charter of 1650, which chose to endorse the liberal arts over a religious curriculum:
+One example of this is the [Harvard Charter of 1650](https://guides.library.harvard.edu/c.php?g=880222&p=6323072), which chose to endorse the liberal arts over a religious curriculum:
 
-> *And that all the aforesaid transactions shall tend to and for the use and behoof of the President Fellows scholars and officers of the said College and for all accommodations of buildings books and all other necessary provisions and furnitures as may be for the advancement and education of youth in all manner of good literature arts and sciences.* (Harvard University Archives)
+> *And that all the aforesaid transactions shall tend to and for the use and behoof of the President Fellows scholars and officers of the said College and for all accommodations of buildings books and all other necessary provisions and furnitures as may be for the advancement and education of youth in all manner of good literature arts and sciences.* ([Harvard University Archives](https://library.harvard.edu/))
 
-Further, the presence of universities in cities, nation-states, and eventual multi-ethnic empires has accompanied greater swaths of the population gaining access to tertiary education opportunities, which correlate to higher life expectancies and a whole host of other positive health and wellness outcomes. For instance, these data are illustrative of the change over time in access to higher education: [2]
+Further, the presence of universities in cities, nation-states, and eventual multi-ethnic empires has accompanied greater swaths of the population gaining access to tertiary education opportunities, which [correlate to higher life expectancies](https://www.nytimes.com/2023/10/03/opinion/life-expectancy-college-degree.html) and a whole host of other positive health and wellness outcomes. For instance, these data are illustrative of the change over time in access to higher education: [2]
+
+<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/share-of-the-population-with-completed-tertiary-education"></iframe>
