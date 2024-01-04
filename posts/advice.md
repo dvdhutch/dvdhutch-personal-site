@@ -75,7 +75,7 @@ The world can take everything from me, but as long as there is an earth to explo
 >
 > *I’ve long believed that good food, good eating, is all about risk. Whether we’re talking about*
 > *unpasteurized Stilton, raw oysters or working for organized crime ‘associates,’ food, for me, has* 
-> *always been an adventure*
+> *always been an adventure.*
 >
 > *The way you make an omelet reveals your character.*
 
