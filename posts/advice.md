@@ -67,10 +67,11 @@ Never stop asking questions. Ever. Sure, people that are ferociously curious are
 
 The world can take everything from me, but as long as there is an earth to explore, I’ll be okay. In place of further prose, enjoy some Anthony Bourdain quotes, who is the human epitome of this spirit.
 
-> If you’re twenty-two, physically fit, hungry to learn and be better, I urge you to travel – as far > and as widely as possible. Sleep on floors if you have to. Find out how other people live and eat > > and cook. Learn from them – wherever you go.
+> If you’re twenty-two, physically fit, hungry to learn and be better, I urge you to travel – as far and as widely as possible. Sleep on floors if you have to. Find out how other people live and eat 
+> and cook. Learn from them – wherever you go.
 >
 > Travel changes you. As you move through this life and this world you change things slightly, you 
-> leave marks behind, however small. And in return, life – and travel – leaves marks on you. Most of > the time, those marks – on your body or on your heart – are beautiful. Often, though, they hurt.
+> leave marks behind, however small. And in return, life – and travel – leaves marks on you. Most of the time, those marks – on your body or on your heart – are beautiful. Often, though, they hurt.
 >
 > I’ve long believed that good food, good eating, is all about risk. Whether we’re talking about 
 > unpasteurized Stilton, raw oysters or working for organized crime ‘associates,’ food, for me, has 
