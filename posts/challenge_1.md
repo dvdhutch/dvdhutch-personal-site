@@ -23,8 +23,8 @@ You will need to:
 
 - Open VS Code or a similar code editor
 - Create a folder somewhere on your computer and open with VS Code
-- In the folder, create a new JSON file -- you can name it knowledge_base.JSON
-- Still in the folder, create another file name main.py
+- In the folder, create a new JSON file -- you can name it *knowledge_base.JSON*
+- Still in the folder, create another file name *main.py*
 
 ### 1. Creating a JSON Knowledge Base
 
@@ -40,19 +40,15 @@ In the knowledge_base.JSON file, enter the following code:
         ]
     }
 
-    git remote add origin https://github.com/your_username/repository_name.git
-    git branch -M main
-    git add --all
-    git commit -m "enter whatever you want the commit to be called here"
-    git push -u origin main
+### 2. Importing Necessary Libraries
 
-For future use, you'll just need to run these commands to push your updated code to GitHub:
+In this section, we import the libraries required for our chatbot. We use the json library for reading and writing JSON files and the get_close_matches function from the difflib module for finding the closest match to the user’s question.
 
-    git add --all
-    git commit -m "enter whatever you want the commit to be called here"
-    git push -u origin main
+Switch to the file named *main.py* and enter the following code:
 
-*I'm definitely **not** a GitHub/Git expert, nor do I claim to be. Take my advice with a grain of salt. I'm sure there are some web developers that would throw a fit on reading this process. However, if you're limited in experience (like me!), these steps should suffice*.
+    import json
+    from difflib import get_close_matches  # Importing function to find close matches
+
 
 
 *Again, I'm not an expert on **anything** covered in this post. I hope this can help you! I enjoyed building it and found it helpful to share my thinking on web design, names, and everything in-between*.
