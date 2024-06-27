@@ -85,10 +85,10 @@ This function retrieves the answer for a given question from the knowledge base.
             if q["question"] == question:  # Checking if the current question matches the input question
                 return q["answer"]  # Returning the answer if a match is found
 
-### 7. Creating the Chat Bot
+### 7. Creating the Chatbot
 
 
-This is the main function that runs the chat bot. It loads the knowledge base, processes user input, finds the best match, retrieves the answer, and updates the knowledge base if needed.
+This is the main function that runs the chatbot. It loads the knowledge base, processes user input, finds the best match, retrieves the answer, and updates the knowledge base if needed.
 
     def chat_bot():
         knowledge_base: dict = load_knowledge_base('knowledge_base.json')  # Loading the knowledge base
@@ -112,6 +112,17 @@ This is the main function that runs the chat bot. It loads the knowledge base, p
                     knowledge_base["questions"].append({"question": user_input, "answer": new_answer})  # Adding the new question and answer to the knowledge base
                     save_knowledge_base('knowledge_base.json', knowledge_base)  # Saving the updated knowledge base
                     print('Bot: Thank you! I learned a new response!')  # Confirming that the bot learned a new response
+
+### 8. Running the Chatbot
+
+    if __name__ == '__main__':
+        chat_bot()  # Running the chatbot
+
+## Operating the Program
+
+Congratulations! If you've made it this far, you have successfully created your very own chatbot.
+
+To run the program, in VS Code, you can right-click (on MacOS, two-finger click) and select 'Run Python File in Terminal'. From there, you can explore training the program and seeing how it responds!
 
 
 
