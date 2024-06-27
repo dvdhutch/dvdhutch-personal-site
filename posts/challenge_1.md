@@ -96,7 +96,6 @@ This function retrieves the answer for a given question from the knowledge base.
 
 ### 7. Creating the Chatbot
 
-
 This is the main function that runs the chatbot. It loads the knowledge base, processes user input, finds the best match, retrieves the answer, and updates the knowledge base if needed.
 
     def chat_bot():
@@ -134,6 +133,7 @@ Congratulations! If you've made it this far, you have successfully created your 
 
 To run the program in VS Code, right-click (on MacOS, two-finger click) and select 'Run Python File in Terminal'. From there, you can explore training the program and seeing how it responds! Happy training!
 
+### Credits
 
 Made by David Hutchinson in Leysin, CH
 MMXXIV
