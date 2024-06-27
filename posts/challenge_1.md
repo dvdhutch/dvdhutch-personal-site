@@ -3,11 +3,11 @@ title: 'Challenge 1'
 date: '2024-06-27'
 ---
 
-### AI Chatbot Project
+## AI Chatbot Project
 
 In this project, you will explore the code for a simple AI chatbot. The chatbot can answer questions based on a pre-defined knowledge base and can learn new answers when it encounters unknown questions. Below, the code is divided into sections with explanations and comments to help you understand how it works.
 
-### Big Ideas
+## Big Ideas
 
 **Natural Language Processing (NLP)**: The program processes and interprets user questions, which is a basic NLP task. Although it uses simple string matching, it's still a part of understanding human language.
 
@@ -24,7 +24,7 @@ You will need to:
 - Open VS Code or a similar code editor
 - Create a folder somewhere on your computer and open with VS Code
 - In the folder, create a new JSON file -- you can name it *knowledge_base.JSON*
-- Still in the folder, create another file name *main.py*
+- Still in the folder, create another file and name it *main.py*
 
 ### 1. Creating a JSON Knowledge Base
 
@@ -49,6 +49,70 @@ Switch to the file named *main.py* and enter the following code:
     import json
     from difflib import get_close_matches  # Importing function to find close matches
 
+### 3. Loading the Knowledge Base
+
+This function loads the knowledge base from a JSON file. The knowledge base contains questions and their corresponding answers.
+
+Continue entering the following code into the file named *main.py* until told otherwise.
+
+    def load_knowledge_base(file_path: str) -> dict: 
+        with open(file_path, 'r') as file:
+            data: dict = json.load(file)  # Loading data from a JSON file into a dictionary
+        return data
+
+### 4. Saving the Knowledge Base
+
+This function saves the updated knowledge base back to the JSON file. This is used when the bot learns new answers.
+
+    def save_knowledge_base(file_path: str, data: dict):
+        with open(file_path, 'w') as file:
+            json.dump(data, file, indent=2)  # Saving the dictionary data back to a JSON file with indentation for readability
+
+### 5. Finding the Best Match
+
+This function finds the closest matching question from the knowledge base to the user's question. It uses the get_close_matches function to compare the user's question with the stored questions.
+
+    def find_best_match(user_question: str, questions: list[str]) -> str | None:
+        matches: list = get_close_matches(user_question, questions, n=2, cutoff=0.6)  # Finding close matches to the user question
+        return matches[0] if matches else None  # Returning the best match or None if no match is found
+
+### 6. Getting the Answer for a Question
+
+This function retrieves the answer for a given question from the knowledge base.
+
+    def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
+        for q in knowledge_base["questions"]:  # Iterating through the list of questions in the knowledge base
+            if q["question"] == question:  # Checking if the current question matches the input question
+                return q["answer"]  # Returning the answer if a match is found
+
+### 7. Creating the Chat Bot
 
 
-*Again, I'm not an expert on **anything** covered in this post. I hope this can help you! I enjoyed building it and found it helpful to share my thinking on web design, names, and everything in-between*.
+This is the main function that runs the chat bot. It loads the knowledge base, processes user input, finds the best match, retrieves the answer, and updates the knowledge base if needed.
+
+    def chat_bot():
+        knowledge_base: dict = load_knowledge_base('knowledge_base.json')  # Loading the knowledge base
+
+        while True:
+            user_input: str = input('You: ')  # Getting user input
+
+            if user_input.lower() == 'quit':  # Exiting the loop if the user types 'quit'
+                break
+
+            best_match: str | None = find_best_match(user_input, [q["question"] for q in knowledge_base["questions"]])  # Finding the best match for the user question
+
+            if best_match:
+                answer: str = get_answer_for_question(best_match, knowledge_base)  # Getting the answer for the best match
+                print(f'Bot: {answer}')  # Printing the bot's answer
+            else:
+                print('Bot: I don\'t know the answer. Can you teach me?')
+                new_answer: str = input('Type the answer or "skip" to skip: ')  # Asking the user to teach the bot
+
+                if new_answer.lower() != 'skip':
+                    knowledge_base["questions"].append({"question": user_input, "answer": new_answer})  # Adding the new question and answer to the knowledge base
+                    save_knowledge_base('knowledge_base.json', knowledge_base)  # Saving the updated knowledge base
+                    print('Bot: Thank you! I learned a new response!')  # Confirming that the bot learned a new response
+
+
+
+*This essay was partially written by an AI system. Additionally, elements of this project were co-created with [OpenAI's ChatGPT-4o](https://openai.com/index/hello-gpt-4o/)*.
