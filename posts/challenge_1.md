@@ -122,7 +122,11 @@ This is the main function that runs the chatbot. It loads the knowledge base, pr
 
 Congratulations! If you've made it this far, you have successfully created your very own chatbot.
 
-To run the program, in VS Code, you can right-click (on MacOS, two-finger click) and select 'Run Python File in Terminal'. From there, you can explore training the program and seeing how it responds!
+To run the program in VS Code, right-click (on MacOS, two-finger click) and select 'Run Python File in Terminal'. From there, you can explore training the program and seeing how it responds! Happy training!
+
+
+Made by David Hutchinson in Leysin, CH
+MMXXIV
 
 
 
