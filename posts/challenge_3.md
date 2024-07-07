@@ -17,7 +17,7 @@ You will need to:
 - In the folder, create a new JSON file -- name it *storage.JSON*
 - Still in the folder, create another file and name it *main.py*
 
-### main.py
+### 1. main.py
 
     import json
 
@@ -90,9 +90,9 @@ You will need to:
 
 
 
-Make sure to customize your app! Lines 35 and 36 are editable and can be changed to suit your preferred name / location.
+*Make sure to customize your app! Lines 35 and 36 are editable and can be changed to suit your preferred name / location.*
 
-### storage.JSON
+### 2. storage.JSON
 
     {
         "brands": {
@@ -117,9 +117,9 @@ Make sure to customize your app! Lines 35 and 36 are editable and can be changed
 
 
 
-Make sure you customize your app! You can edit specific shop attributes and the categories associated with them. For instance, in Line 3, you can change the bran from Adidas to something else.
+*Make sure you customize your app! You can edit specific shop attributes and the categories associated with them. For instance, in Line 3, you can change the bran from Adidas to something else.*
 
-In Line 4, you can change T-Shirt to a different clothing garment and set your own price. Then, switch up the season, style, and occasion as you see fit.
+*In Line 4, you can change T-Shirt to a different clothing garment and set your own price. Then, switch up the season, style, and occasion as you see fit.*
 
 
 ## Operating the Program
