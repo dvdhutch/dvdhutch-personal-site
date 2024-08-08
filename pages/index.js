@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p> 👋 Hi, I'm David </p>
-        <p> 📍 I'm in <b>Leysin, Switzerland</b></p>
+        <p> 📍 I'm in <b>New York, New York</b></p>
         <p> 📚 Currently, I'm reading: <i>Land of Promise: An Economic History of the United States</i> and <i>A Waiter in Paris</i></p>
         <p> <b> What important truth do very few people agree with you on? Or, to the entrepreneur, what valuable company is nobody building? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </b> </p>
         <p> Without fail, this question leads me to ponder, as I try to understand and piece together solutions to problems. Outwardly people describe me as calm and affable but inwardly I can't sit still and am always trying to figure out what comes next.</p>
@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
         </p>
         <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
         <p> <a class='button' href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
-        <p> <a class='button' href="https://drive.google.com/file/d/1jZ9aWWLsgyaNZreuNctSQfnybh_8524H/view?usp=sharing">Resume</a></p>
+        <p> <a class='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
