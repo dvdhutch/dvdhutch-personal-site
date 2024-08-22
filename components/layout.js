@@ -1,3 +1,4 @@
+// components/layout.js
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from './layout.module.css';
@@ -12,17 +13,21 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="David Hutchinson"
-        />
-        <meta
-          property="og:image"
-          content={`https://s.turbifycdn.com/aah/paulgraham/index-14.gif`}
-        />
+        <meta name="description" content="David Hutchinson" />
+        <meta property="og:image" content={`https://s.turbifycdn.com/aah/paulgraham/index-14.gif`} />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
+      
+      {/* Transparent Navbar */}
+      <nav className={styles.navbar}>
+        <div className={styles.navContainer}>
+          <Link href="/"><a className={styles.navLink}>Home</a></Link>
+          <Link href="/portfolio"><a className={styles.navLink}>Portfolio</a></Link>
+          {/* Add more links as needed */}
+        </div>
+      </nav>
+
       <header className={styles.header}>
         {home ? (
           <>
@@ -38,7 +43,6 @@ export default function Layout({ children, home }) {
           </>
         ) : (
           <>
-
             <Link href="/">
               <a>
                 <Image
@@ -59,7 +63,9 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
+      
       <main>{children}</main>
+      
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">
