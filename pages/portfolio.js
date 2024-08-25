@@ -11,8 +11,7 @@ export default function Portfolio() {
       </Head>
       <section className={utilStyles.headingMd}>
         <h1>Portfolio</h1>
-        <p>Here, you can showcase your projects, case studies, or other work.</p>
-        {/* Add more content, like projects or case studies, as needed */}
+        <p>Work in progress...</p>
       </section>
     </Layout>
   );
