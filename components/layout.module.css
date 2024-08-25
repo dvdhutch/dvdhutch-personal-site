@@ -16,18 +16,18 @@
   
   .navbar {
     width: 100%;
-    background-color: transparent; /* Transparent background */
+    background-color: transparent;
     padding: 1rem 0;
   }
   
   .navContainer {
     display: flex;
     justify-content: center;
-    gap: 2rem; /* Space between the nav links */
+    gap: 2rem;
   }
   
   .navLink {
-    color: #000; /* Adjust color as needed */
+    color: #000;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.2rem;
@@ -35,5 +35,5 @@
   }
   
   .navLink:hover {
-    color: #0070f3; /* Adjust hover color as needed */
+    color: #0070f3; 
   }
