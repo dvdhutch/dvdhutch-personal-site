@@ -24,7 +24,7 @@ export default function Layout({ children, home }) {
         <div className={styles.navContainer}>
           <Link href="/"><a className={styles.navLink}>Home</a></Link>
           <Link href="/portfolio"><a className={styles.navLink}>Portfolio</a></Link>
-          {/* Add more links as needed */}
+          <Link href="/essays"><a className={styles.navLink}>Essays</a></Link> {/* New Essays Page Link */}
         </div>
       </nav>
 
