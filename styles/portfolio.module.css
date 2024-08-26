@@ -1,38 +1,34 @@
 /* portfolio.module.css */
-
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 16px;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     padding: 20px;
   }
   
   .card {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    text-align: center;
-    transition: transform 0.2s;
   }
   
-  .card:hover {
-    transform: translateY(-5px);
+  .card h3 {
+    margin: 0;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card p {
+    margin: 0;
+    padding: 16px;
+    font-size: 14px;
+    color: #666;
   }
   
   .image {
     width: 100%;
     height: auto;
-  }
-  
-  h3 {
-    margin: 16px 0 8px;
-    font-size: 18px;
-  }
-  
-  p {
-    margin: 0 0 16px;
-    color: #555;
-    font-size: 14px;
   }
   
