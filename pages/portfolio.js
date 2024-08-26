@@ -4,7 +4,7 @@ import styles from '../styles/portfolio.module.css';
 export default function Portfolio() {
   const projects = [
     {
-      title: 'LANDR',
+      title: 'Landar',
       description: 'Led a mixed methods user research project on mastering',
       imageUrl: '/images/landr.jpg',
     },
