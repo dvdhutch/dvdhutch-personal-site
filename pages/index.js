@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
       <div className={utilStyles.workDate}>2024-</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Teacher at <a href="https://www.las.ch">Leysin American School</a></div>
+      <div className={utilStyles.workTitle}>CS Teacher at <a href="https://www.las.ch">Leysin American School</a></div>
       <div className={utilStyles.workDate}>2024</div>
     </div>
     <div className={utilStyles.workRow}>
@@ -55,11 +55,11 @@ export default function Home({ allPostsData }) {
   <h2>Education</h2>
   <div className={utilStyles.workContainer}>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}><a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></div>
+      <div className={utilStyles.workTitle}>MA, <a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></div>
       <div className={utilStyles.workDate}>2024-</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}><a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></div>
+      <div className={utilStyles.workTitle}>BME, <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></div>
       <div className={utilStyles.workDate}>2020-2024</div>
     </div>
     <div className={utilStyles.workRow}>
