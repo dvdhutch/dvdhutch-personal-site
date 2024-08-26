@@ -1,8 +1,8 @@
 // pages/portfolio.js
-import styles from '../styles/portfolio.module.css';
 import Head from 'next/head';
 import Layout from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
+import styles from '../styles/portfolio.module.css';
 import Link from 'next/link';
 
 export default function Portfolio() {
@@ -30,14 +30,22 @@ export default function Portfolio() {
   ];
 
   return (
-    <div className={styles.grid}>
-      {projects.map((project, index) => (
-        <div key={index} className={styles.card}>
-          <img src={project.imageUrl} alt={project.title} className={styles.image} />
-          <h3>{project.title}</h3>
-          <p>{project.description}</p>
+    <Layout>
+      <Head>
+        <title>Portfolio</title>
+      </Head>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h1 className={utilStyles.headingLg}>Portfolio</h1>
+        <div className={styles.grid}>
+          {projects.map((project, index) => (
+            <div key={index} className={styles.card}>
+              <img src={project.imageUrl} alt={project.title} className={styles.image} />
+              <h3>{project.title}</h3>
+              <p>{project.description}</p>
+            </div>
+          ))}
         </div>
-      ))}
-    </div>
+      </section>
+    </Layout>
   );
 }
