@@ -68,7 +68,7 @@ export default function Home({ allPostsData }) {
       <div className={utilStyles.workDate}>2020 - 2024</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Fellow at Presidential Leadership Academy at Penn State</div>
+      <div className={utilStyles.workTitle}>Presidential Leadership Academy at Penn State</div>
       <div className={utilStyles.workDate}>2021 - 2024</div>
     </div>
   </div>
