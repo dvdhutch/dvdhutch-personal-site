@@ -1,7 +1,7 @@
 // pages/portfolio.js
 import Head from 'next/head';
 import Layout from '../../components/layout';
-import utilStyles from '../styles/utils.module.css';
+import utilStyles from '../../styles/utils.module.css';
 import styles from '../styles/portfolio.module.css';
 import Link from 'next/link';
 
