@@ -50,3 +50,27 @@
   .lightText {
     color: #666;
   }
+
+  .workContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+  }
+  
+  .workRow {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em 0;
+  }
+  
+  .workTitle {
+    text-align: left;
+    flex: 1;
+  }
+  
+  .workDate {
+    text-align: right;
+    flex-shrink: 0;
+    margin-left: 1em;
+  }
+  

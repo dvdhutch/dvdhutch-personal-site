@@ -37,6 +37,29 @@ export default function Home({ allPostsData }) {
         <p> <a class='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
       </section>
 
+      <section className={utilStyles.headingMd}>
+  <h2>Work</h2>
+  <div className={utilStyles.workContainer}>
+    <div className={utilStyles.workRow}>
+      <div className={utilStyles.workTitle}>Investor at Upfront Ventures</div>
+      <div className={utilStyles.workDate}>2020 - 2022</div>
+    </div>
+    <div className={utilStyles.workRow}>
+      <div className={utilStyles.workTitle}>Co-founded Macro with Derrick Li</div>
+      <div className={utilStyles.workDate}>2019 - 2020</div>
+    </div>
+    <div className={utilStyles.workRow}>
+      <div className={utilStyles.workTitle}>Member at South Park Commons</div>
+      <div className={utilStyles.workDate}>2016 - 2018</div>
+    </div>
+    <div className={utilStyles.workRow}>
+      <div className={utilStyles.workTitle}>Senior Product Manager at Tradeshift</div>
+      <div className={utilStyles.workDate}>2014 - 2016</div>
+    </div>
+  </div>
+</section>
+
+
       {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Essays</h2>
         <ul className={utilStyles.list}>
