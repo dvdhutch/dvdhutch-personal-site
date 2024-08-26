@@ -38,20 +38,20 @@ export default function Home({ allPostsData }) {
   <h2>Work</h2>
   <div className={utilStyles.workContainer}>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Investor at Upfront Ventures</div>
-      <div className={utilStyles.workDate}>2020 - 2022</div>
+      <div className={utilStyles.workTitle}>Zankel Fellow, <a href="https://www.columbia.edu">Columbia University</a></div>
+      <div className={utilStyles.workDate}>2024-</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Co-founded Macro with Derrick Li</div>
-      <div className={utilStyles.workDate}>2019 - 2020</div>
+      <div className={utilStyles.workTitle}>Teacher at <a href="https://www.las.ch">Leysin American School</a></div>
+      <div className={utilStyles.workDate}>2024</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Member at South Park Commons</div>
-      <div className={utilStyles.workDate}>2016 - 2018</div>
+      <div className={utilStyles.workTitle}>Product Management Intern at <a href="https://www.liveohana.ai">Ohana</a></div>
+      <div className={utilStyles.workDate}>2023</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Senior Product Manager at Tradeshift</div>
-      <div className={utilStyles.workDate}>2014 - 2016</div>
+      <div className={utilStyles.workTitle}>Founder at <a href="https://www.suoni.co">Suoni</a></div>
+      <div className={utilStyles.workDate}>2021-2022</div>
     </div>
   </div>
 </section>
@@ -60,16 +60,16 @@ export default function Home({ allPostsData }) {
   <h2>Education</h2>
   <div className={utilStyles.workContainer}>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Teachers College, Columbia University</div>
-      <div className={utilStyles.workDate}>2024 -</div>
+      <div className={utilStyles.workTitle}><a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></div>
+      <div className={utilStyles.workDate}>2024-</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Penn State Schreyer Honors College</div>
-      <div className={utilStyles.workDate}>2020 - 2024</div>
+      <div className={utilStyles.workTitle}><a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></div>
+      <div className={utilStyles.workDate}>2020-2024</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Presidential Leadership Academy at Penn State</div>
-      <div className={utilStyles.workDate}>2021 - 2024</div>
+      <div className={utilStyles.workTitle}><a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a></div>
+      <div className={utilStyles.workDate}>2021-2024</div>
     </div>
   </div>
   <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
