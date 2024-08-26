@@ -32,9 +32,6 @@ export default function Home({ allPostsData }) {
         <p> Before that, I started a startup, <a href="https://www.suoni.co">Suoni</a>, where I worked on making AI-generated lesson plans for teachers -- and learned a lot along the way.</p>
         <p> I am an alumnus of the <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a> and <a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a>.
         </p>
-        <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
-        <p> <a class='button' href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
-        <p> <a class='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
       </section>
 
       <section className={utilStyles.headingMd}>
@@ -57,6 +54,9 @@ export default function Home({ allPostsData }) {
       <div className={utilStyles.workDate}>2014 - 2016</div>
     </div>
   </div>
+  <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
+        <p> <a class='button' href="mailto:davidmhutchinson@hotmail.com">Email</a></p>
+        <p> <a class='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
 </section>
 
 
