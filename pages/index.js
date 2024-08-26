@@ -60,20 +60,16 @@ export default function Home({ allPostsData }) {
   <h2>Education</h2>
   <div className={utilStyles.workContainer}>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Investor at Upfront Ventures</div>
-      <div className={utilStyles.workDate}>2020 - 2022</div>
+      <div className={utilStyles.workTitle}>Teachers College, Columbia University</div>
+      <div className={utilStyles.workDate}>2024 -</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Co-founded Macro with Derrick Li</div>
-      <div className={utilStyles.workDate}>2019 - 2020</div>
+      <div className={utilStyles.workTitle}>Penn State Schreyer Honors College</div>
+      <div className={utilStyles.workDate}>2020 - 2024</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Member at South Park Commons</div>
-      <div className={utilStyles.workDate}>2016 - 2018</div>
-    </div>
-    <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Senior Product Manager at Tradeshift</div>
-      <div className={utilStyles.workDate}>2014 - 2016</div>
+      <div className={utilStyles.workTitle}>Fellow at Presidential Leadership Academy at Penn State</div>
+      <div className={utilStyles.workDate}>2021 - 2024</div>
     </div>
   </div>
   <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
