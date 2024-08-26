@@ -1,5 +1,5 @@
 // pages/portfolio.js
-import styles from './portfolio.module.css';
+import styles from '../styles/portfolio.module.css';
 
 export default function Portfolio() {
   const projects = [
