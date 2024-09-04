@@ -8,7 +8,7 @@ const projectData = {
   subway: {
     title: 'NYC\'s Underserved Neighborhoods',
     description: 'A deep-dive into New York neighborhoods that are underserved by the New York City Subway.',
-    imageUrl: '/images/landr.jpg',
+    imageUrl: '/images/subway.jpg',
     externalUrl: 'https://storymaps.arcgis.com/stories/3b06e62cea54424eb239c3719842386c', // External URL for this project
   },
   lyf: {
