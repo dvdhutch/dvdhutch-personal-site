@@ -6,9 +6,9 @@ import utilStyles from '../../styles/utils.module.css';
 
 
 const projectData = {
-  landar: {
-    title: 'Landar',
-    description: 'Detailed description about Landar project...',
+  subway: {
+    title: 'NYC\'s Underserved Neighborhoods',
+    description: 'A deep-dive into New York neighborhoods that are underserved by the New York City Subway.',
     imageUrl: '/images/landr.jpg',
   },
   lyf: {
