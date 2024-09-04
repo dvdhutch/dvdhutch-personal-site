@@ -2,7 +2,6 @@
 import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Layout from '../../components/layout';
-import utilStyles from '../../styles/utils.module.css';
 import { useEffect } from 'react';
 
 const projectData = {
@@ -20,7 +19,6 @@ const projectData = {
       <>
         <p>This is a detailed description of the Lyf project. It involved redesigning a fintech app's information architecture.</p>
         <img src="/images/lyf-project-detail.jpg" alt="Lyf project details" />
-        {/* Add more customized content here */}
       </>
     ),
   },
@@ -32,7 +30,6 @@ const projectData = {
       <>
         <p>This is a detailed description of the Testapic project. It involved remote research on digital advertising.</p>
         <img src="/images/testapic-project-detail.jpg" alt="Testapic project details" />
-        {/* Add more customized content here */}
       </>
     ),
   },
@@ -44,7 +41,6 @@ const projectData = {
       <>
         <p>This is a detailed description of the Ubisoft project. It involved delivering game user research insights for For Honor.</p>
         <img src="/images/ubisoft-project-detail.jpg" alt="Ubisoft project details" />
-        {/* Add more customized content here */}
       </>
     ),
   },
@@ -55,10 +51,11 @@ export default function ProjectPage() {
   const { slug } = router.query;
   const project = projectData[slug];
 
-  // Redirect to external URL if it exists
+  // Redirect to external URL if it exists and then go back to /portfolio
   useEffect(() => {
     if (project?.externalUrl) {
       window.open(project.externalUrl, '_blank');
+      router.push('/portfolio'); // Redirect back to the portfolio page
     }
   }, [project]);
 
