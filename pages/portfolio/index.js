@@ -1,17 +1,17 @@
-// pages/portfolio.js
+// pages/portfolio/index.js
 import Head from 'next/head';
 import Layout from '../../components/layout';
 import utilStyles from '../../styles/utils.module.css';
 import styles from '../../styles/portfolio.module.css';
 import Link from 'next/link';
-
+// here is a 
 export default function Portfolio() {
   const projects = [
     {
-      title: 'Landar',
-      description: 'Led a mixed methods user research project on mastering',
+      title: 'NYC\'s Underserved Neighborhoods',
+      description: 'A deep-dive into New York neighborhoods that are underserved by the New York City Subway.',
       imageUrl: '/images/landr.jpg',
-      slug: 'landar',
+      slug: 'subway',
     },
     {
       title: 'Lyf',
