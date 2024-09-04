@@ -10,7 +10,7 @@ export default function Portfolio() {
     {
       title: 'NYC\'s Underserved Neighborhoods',
       description: 'A deep-dive into New York neighborhoods that are underserved by the New York City Subway.',
-      imageUrl: '/images/landr.jpg',
+      imageUrl: '/images/subway.jpg',
       slug: 'subway',
     },
     {
