@@ -29,6 +29,9 @@ const projectData = {
     imageUrl: 'https://media.architecturaldigest.com/photos/563000c2bf2db2f83856e12c/16:9/w_3040,h_1710,c_limit/harry-potter-sets-christ-church-college-oxford15.jpg',
     content: (
       <>
+        <p>This project was advised by <a href="https://arts.psu.edu/directory/jacob-holster" target="_blank">Dr. Jacob Holster</a>.</p>
+        <p>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX).</p>
+        <p>In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</p>
         <h2>Objective & Hypotheses</h2>
         <ul>
           <li>Investigate the similarities and differences American and British music students have with digital learning technology</li>
