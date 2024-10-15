@@ -31,8 +31,8 @@ const projectData = {
       <>
         <h1>Student Perceptions of Digital Learning Technology: A Cross-Cultural Analysis of Music Students</h1>
         <p><i>This project was advised by <a href="https://arts.psu.edu/directory/jacob-holster" target="_blank">Dr. Jacob Holster</a>.</i></p>
-        <p><i>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX).</i></p>
-        <p><i>In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</i></p>
+        <p><i>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX). In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</i></p>
+        <p><i>This is the presentation-ready version of a full-length research paper. Read the whole thing <a href="https://honors.libraries.psu.edu/catalog/9008dmh6286" target="_blank">here</a>!</i></p>
         <h2>Objective & Hypotheses</h2>
         <ul>
           <li>Investigate the similarities and differences American and British music students have with digital learning technology</li>
