@@ -30,7 +30,7 @@ const projectData = {
     content: (
       <>
         <p>Work in progress. Check back soon! ✌️</p>
-        <img src="https://s.turbifycdn.com/aah/paulgraham/index-21.gif" alt="PG was here" style={{ display: 'block', margin: '0 auto' }}/>
+        <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
   },
