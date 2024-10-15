@@ -36,7 +36,7 @@ const projectData = {
         <h2>Objective & Hypotheses</h2>
         <ul>
           <li>Investigate the similarities and differences American and British music students have with digital learning technology</li>
-          <li>Identify the way students\' use of technology has changed from before the onset of the COVID-19 pandemic to after COVID-19​</li>
+          <li>Identify the way students' use of technology has changed from before the onset of the COVID-19 pandemic to after COVID-19​</li>
           <li>To explore how cultural and institutional differences might influence these perceptions.</li>
           <li>Consider the practical implications of various modes of digital learning technology for music teachers based on student input​</li>
         </ul>
@@ -52,6 +52,7 @@ const projectData = {
           <li>Briefly explain how your use of technology has changed before and after the outbreak of COVID-19 in March 2020. Do you find yourself using technology more, less, or about the same?​</li>
           <li>Are you looking to use technology more, less, or about the same amount in your future course work?​</li>
         </ul>
+        <img src="/images/gpt-analysis.png" alt="GPT-4 Analysis" style={{ display: 'block', margin: '0 auto' }}/>
         <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
