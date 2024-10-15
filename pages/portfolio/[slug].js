@@ -29,6 +29,7 @@ const projectData = {
     imageUrl: '',
     content: (
       <>
+        <h1>Student Perceptions of Digital Learning Technology: A Cross-Cultural Analysis of Music Students</h1>
         <p><i>This project was advised by <a href="https://arts.psu.edu/directory/jacob-holster" target="_blank">Dr. Jacob Holster</a>.</i></p>
         <p><i>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX).</i></p>
         <p><i>In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</i></p>
