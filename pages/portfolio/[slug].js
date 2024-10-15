@@ -24,7 +24,7 @@ const projectData = {
     externalUrl: 'https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/',
   },
   thesis: {
-    title: 'Student Perceptions of Digital Learning Technology: A Cross-CulturalAnalysis of Music Students',
+    title: 'Student Perceptions of Digital Learning Technology: A Cross-Cultural Analysis of Music Students',
     description: 'Detailed description about Ubisoft project...',
     imageUrl: 'https://media.architecturaldigest.com/photos/563000c2bf2db2f83856e12c/16:9/w_3040,h_1710,c_limit/harry-potter-sets-christ-church-college-oxford15.jpg',
     content: (
