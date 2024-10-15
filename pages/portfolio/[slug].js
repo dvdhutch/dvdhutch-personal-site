@@ -17,16 +17,11 @@ const projectData = {
     imageUrl: 'https://www.uni-wittenberg.de/wp-content/uploads/image/jpeg/Leuorea_1644_Ausschnitt.jpg',
     externalUrl: 'https://sites.psu.edu/academy/2023/11/03/a-brief-history-of-the-university/',
   },
-  testapic: {
-    title: 'Testapic',
-    description: 'Detailed description about Testapic project...',
-    imageUrl: '/images/testapic.jpg',
-    content: (
-      <>
-        <p>This is a detailed description of the Testapic project. It involved remote research on digital advertising.</p>
-        <img src="/images/testapic-project-detail.jpg" alt="Testapic project details" />
-      </>
-    ),
+  williamsport: {
+    title: 'Tales of water and mountains',
+    description: 'Geography is deterministic. For some, geography is destiny. For others, geography is fate. For Williamsport,a moderately large city situated on the West Branch of the Susquehanna River, as well as the principal cultural, economical, and commercial node of Central Pennsylvania, geography tells the story of of how and why a modest village became the wealthiest place in the world.',
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6VA6d2Qd4dsPoS7kCXeAyqaXZVBBZWVQj83AYia51Tj-Nso-naTeo-BUotriI_HZ1lZfUrj9C90BM0Dzy-U_pGuotiLBE7B05zP9TXvKQlBSSBFpnrTJ-MDzmRifvmJCUo_oF24ioMfeACC7bRpJdN5haerID8gZQIEFKK9FjpKjfQBgdyy0cHlzFRg/s1000/labeled%20williamsport.jpg',
+    externalUrl: 'https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/',
   },
   ubisoft: {
     title: 'Ubisoft',

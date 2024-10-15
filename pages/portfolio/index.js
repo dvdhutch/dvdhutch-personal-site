@@ -20,10 +20,10 @@ export default function Portfolio() {
       slug: 'uni',
     },
     {
-      title: 'Testapic',
-      description: 'Carried out remote research to learn more about digital advertising',
-      imageUrl: '/images/testapic.jpg',
-      slug: 'testapic',
+      title: 'Tales of water and mountains',
+      description: 'Geography is deterministic. For some, geography is destiny. For others, geography is fate. For Williamsport,a moderately large city situated on the West Branch of the Susquehanna River, as well as the principal cultural, economical, and commercial node of Central Pennsylvania, geography tells the story of of how and why a modest village became the wealthiest place in the world.',
+      imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6VA6d2Qd4dsPoS7kCXeAyqaXZVBBZWVQj83AYia51Tj-Nso-naTeo-BUotriI_HZ1lZfUrj9C90BM0Dzy-U_pGuotiLBE7B05zP9TXvKQlBSSBFpnrTJ-MDzmRifvmJCUo_oF24ioMfeACC7bRpJdN5haerID8gZQIEFKK9FjpKjfQBgdyy0cHlzFRg/s1000/labeled%20williamsport.jpg',
+      slug: 'williamsport',
     },
     {
       title: 'Ubisoft',
