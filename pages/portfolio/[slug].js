@@ -29,7 +29,7 @@ const projectData = {
     imageUrl: 'https://media.architecturaldigest.com/photos/563000c2bf2db2f83856e12c/16:9/w_3040,h_1710,c_limit/harry-potter-sets-christ-church-college-oxford15.jpg',
     content: (
       <>
-        <p>Work in progress. Check back soon! ✌️</p>
+        <h1>Work in progress. Check back soon! ✌️</h1>
         <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
