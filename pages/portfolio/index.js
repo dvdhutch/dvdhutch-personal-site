@@ -14,10 +14,10 @@ export default function Portfolio() {
       slug: 'subway',
     },
     {
-      title: 'Lyf',
-      description: 'Redesigned a fintech app information architecture',
+      title: 'A Brief History of the University',
+      description: 'A scoping account of the university, including its contribution to Western values such as liberalism and democracy, and the changing nature of the university in response to demographic and economic trends.',
       imageUrl: '/images/lyf.jpg',
-      slug: 'lyf',
+      slug: 'uni',
     },
     {
       title: 'Testapic',

@@ -11,7 +11,7 @@ const projectData = {
     imageUrl: '/images/subway.jpg',
     externalUrl: 'https://storymaps.arcgis.com/stories/3b06e62cea54424eb239c3719842386c', // External URL for this project
   },
-  lyf: {
+  uni: {
     title: 'A Brief History of the University',
     description: 'A scoping account of the university, including its contribution to Western values such as liberalism and democracy, and the changing nature of the university in response to demographic and economic trends.',
     imageUrl: '/images/lyf.jpg',
