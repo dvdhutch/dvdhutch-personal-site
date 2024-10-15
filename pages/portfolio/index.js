@@ -16,7 +16,7 @@ export default function Portfolio() {
     {
       title: 'A Brief History of the University',
       description: 'A scoping account of the university, including its contribution to Western values such as liberalism and democracy, and the changing nature of the university in response to demographic and economic trends.',
-      imageUrl: '/images/lyf.jpg',
+      imageUrl: 'https://www.uni-wittenberg.de/wp-content/uploads/image/jpeg/Leuorea_1644_Ausschnitt.jpg',
       slug: 'uni',
     },
     {
