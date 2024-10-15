@@ -12,15 +12,10 @@ const projectData = {
     externalUrl: 'https://storymaps.arcgis.com/stories/3b06e62cea54424eb239c3719842386c', // External URL for this project
   },
   lyf: {
-    title: 'Lyf',
-    description: 'Detailed description about Lyf project...',
+    title: 'A Brief History of the University',
+    description: 'A scoping account of the university, including its contribution to Western values such as liberalism and democracy, and the changing nature of the university in response to demographic and economic trends.',
     imageUrl: '/images/lyf.jpg',
-    content: (
-      <>
-        <p>This is a detailed description of the Lyf project. It involved redesigning a fintech app's information architecture.</p>
-        <img src="/images/lyf-project-detail.jpg" alt="Lyf project details" />
-      </>
-    ),
+    externalUrl: 'https://sites.psu.edu/academy/2023/11/03/a-brief-history-of-the-university/',
   },
   testapic: {
     title: 'Testapic',
