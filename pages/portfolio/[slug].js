@@ -24,7 +24,7 @@ const projectData = {
     externalUrl: 'https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/',
   },
   thesis: {
-    title: 'Student Perceptions of Digital Learning Technology: A Cross-Cultural Analysis of Music Students',
+    title: '',
     description: '',
     imageUrl: '',
     content: (
