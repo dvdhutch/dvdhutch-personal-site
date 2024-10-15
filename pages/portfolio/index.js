@@ -44,11 +44,7 @@ export default function Portfolio() {
           {projects.map((project, index) => (
             <Link key={index} href={`/portfolio/${project.slug}`}>
               <div className={styles.card}>
-                <img 
-                  src={project.imageUrl} 
-                  alt={project.title} 
-                  className={`${styles.image} ${styles.portfolioRoundedImage}`} 
-                />
+                <img src={project.imageUrl} alt={project.title} className={styles.image} />
                 <h3>{project.title}</h3>
                 <p>{project.description}</p>
               </div>
