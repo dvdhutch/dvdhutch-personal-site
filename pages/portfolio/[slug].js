@@ -30,7 +30,7 @@ const projectData = {
     content: (
       <>
         <p>Work in progress. Check back soon! ✌️</p>
-        <img src="https://s.turbifycdn.com/aah/paulgraham/index-21.gif" alt="PG was here" />
+        <img src="https://s.turbifycdn.com/aah/paulgraham/index-21.gif" alt="PG was here" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
   },
