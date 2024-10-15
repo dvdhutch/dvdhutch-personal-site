@@ -26,10 +26,10 @@ export default function Portfolio() {
       slug: 'williamsport',
     },
     {
-      title: 'Ubisoft',
+      title: 'Student Perceptions of Digital Learning Technology: A Cross-Cultural Analysis of Music Students',
       description: 'Delivered Game User Research insights on For Honor',
-      imageUrl: '/images/ubisoft.jpg',
-      slug: 'ubisoft',
+      imageUrl: 'https://media.architecturaldigest.com/photos/563000c2bf2db2f83856e12c/16:9/w_3040,h_1710,c_limit/harry-potter-sets-christ-church-college-oxford15.jpg',
+      slug: 'thesis',
     },
   ];
 
