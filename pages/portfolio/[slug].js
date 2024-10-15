@@ -29,8 +29,8 @@ const projectData = {
     imageUrl: 'https://media.architecturaldigest.com/photos/563000c2bf2db2f83856e12c/16:9/w_3040,h_1710,c_limit/harry-potter-sets-christ-church-college-oxford15.jpg',
     content: (
       <>
-        <p>This is a detailed description of the Ubisoft project. It involved delivering game user research insights for For Honor.</p>
-        <img src="/images/ubisoft-project-detail.jpg" alt="Ubisoft project details" />
+        <p>Work in progress. Check back soon! ✌️</p>
+        <img src="https://s.turbifycdn.com/aah/paulgraham/index-21.gif" alt="PG was here" />
       </>
     ),
   },
