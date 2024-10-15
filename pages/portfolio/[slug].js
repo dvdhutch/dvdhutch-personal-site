@@ -29,13 +29,13 @@ const projectData = {
     imageUrl: '',
     content: (
       <>
-        <p>This project was advised by <a href="https://arts.psu.edu/directory/jacob-holster" target="_blank">Dr. Jacob Holster</a>.</p>
-        <p>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX).</p>
-        <p>In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</p>
+        <p><i>This project was advised by <a href="https://arts.psu.edu/directory/jacob-holster" target="_blank">Dr. Jacob Holster</a>.</i></p>
+        <p><i>I presented this project at the New York State School Music Association Winter Conference (Rochester, NY) and the Penn State Undergraduate Expo (University Park, PA), as well as the Texas Music Educators Association/Technology In Music Education Conference (San Antonio, TX).</i></p>
+        <p><i>In 2024 I won the Pennsylvania Music Educators Association Award for Excellence in Research.</i></p>
         <h2>Objective & Hypotheses</h2>
         <ul>
           <li>Investigate the similarities and differences American and British music students have with digital learning technology</li>
-          <li>Identify the way students’ use of technology has changed from before the onset of the COVID-19 pandemic to after COVID-19​</li>
+          <li>Identify the way students\' use of technology has changed from before the onset of the COVID-19 pandemic to after COVID-19​</li>
           <li>To explore how cultural and institutional differences might influence these perceptions.</li>
           <li>Consider the practical implications of various modes of digital learning technology for music teachers based on student input​</li>
         </ul>
