@@ -53,6 +53,14 @@ const projectData = {
           <li>Are you looking to use technology more, less, or about the same amount in your future course work?​</li>
         </ul>
         <img src="/images/gpt-analysis.png" alt="GPT-4 Analysis" style={{ display: 'block', margin: '0 auto', padding: '10px', width: '100%', maxWidth: '1000px' }}/>
+        <h2>Results: Narrative</h2>
+        <ul>
+          <li>“TD emphasized the importance of his iPad, not just as a tool for engagement during lessons, but as an essential device for note-taking and music reading, stating “I use it 100% of the time in my lesson.” He spotlighted the applications OneNote and ForScore as integral to his learning process, with ForScore being lauded for its user-friendly interface and ease of use.”​</li>
+          <li>“The outbreak of COVID-19 led to a significant increase in technology use among students. A.W. noted a shift to digital meetings and online music resources. S.F. experienced a temporary spike in technology use due to the transition to online classes. B.H. adapted to reading music digitally, a practice he had previously been skeptical about.”​</li>
+        </ul>
+        <h2>Results: Topic Model</h2>
+        <img src="/images/topic-model-1.png" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}/>
+        <img src="/images/topic-model-2.png" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}/>
         <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
