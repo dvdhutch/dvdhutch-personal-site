@@ -70,8 +70,18 @@ const projectData = {
               <li>UI/UX</li>
             </ul>
           </li>
-          <li>Suggestions for future research​</li>
-          <li>Personal impact</li>
+          <li>Suggestions for future research​
+          <ul>
+              <li>Larger, more diverse sample​</li>
+              <li>Focus on access in PK-12​​</li>
+            </ul>
+          </li>
+          <li>Personal impact
+          <ul>
+              <li>Approached and designed the study with novel research methods​</li>
+              <li>Developed an interest in user experirence research and best practices for learning design​</li>
+            </ul>
+          </li>
         </ul>
         <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
