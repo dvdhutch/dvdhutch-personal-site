@@ -10,18 +10,21 @@ const projectData = {
     description: 'A deep-dive into New York neighborhoods that are underserved by the New York City Subway.',
     imageUrl: '/images/subway.jpg',
     externalUrl: 'https://storymaps.arcgis.com/stories/3b06e62cea54424eb239c3719842386c', // External URL for this project
+    tabTitle: 'NYC\'s Underserved Subways', // Custom tab title
   },
   uni: {
     title: 'A Brief History of the University',
     description: 'A scoping account of the university, including its contribution to Western values such as liberalism and democracy, and the changing nature of the university in response to demographic and economic trends.',
     imageUrl: 'https://www.uni-wittenberg.de/wp-content/uploads/image/jpeg/Leuorea_1644_Ausschnitt.jpg',
     externalUrl: 'https://sites.psu.edu/academy/2023/11/03/a-brief-history-of-the-university/',
+    tabTitle: 'University History', // Custom tab title
   },
   williamsport: {
     title: 'Tales of water and mountains',
     description: 'Geography is deterministic. For some, geography is destiny. For others, geography is fate. For Williamsport,a moderately large city situated on the West Branch of the Susquehanna River, as well as the principal cultural, economical, and commercial node of Central Pennsylvania, geography tells the story of of how and why a modest village became the wealthiest place in the world.',
     imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6VA6d2Qd4dsPoS7kCXeAyqaXZVBBZWVQj83AYia51Tj-Nso-naTeo-BUotriI_HZ1lZfUrj9C90BM0Dzy-U_pGuotiLBE7B05zP9TXvKQlBSSBFpnrTJ-MDzmRifvmJCUo_oF24ioMfeACC7bRpJdN5haerID8gZQIEFKK9FjpKjfQBgdyy0cHlzFRg/s1000/labeled%20williamsport.jpg',
     externalUrl: 'https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/',
+    tabTitle: 'Williamsport', // Custom tab title
   },
   thesis: {
     title: '',
@@ -85,6 +88,7 @@ const projectData = {
         </ul>
       </>
     ),
+    tabTitle: 'Student Perceptions of Digital Learning Technology', // Custom tab title
   },
 };
 
@@ -110,10 +114,12 @@ export default function ProjectPage() {
     return null; // Prevent rendering if redirecting
   }
 
+  const pageTitle = project?.tabTitle || project?.title || 'Project Page';
+
   return (
     <Layout>
       <Head>
-        <title>{project.title}</title>
+        <title>{pageTitle}</title>
       </Head>
       <h1>{project.title}</h1>
       <img src={project.imageUrl} alt={project.title} />
