@@ -61,6 +61,18 @@ const projectData = {
         <h2>Results: Topic Model</h2>
         <img src="/images/topic-model-1.png" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}/>
         <img src="/images/topic-model-2.png" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}/>
+        <h2>Discussion</h2>
+        <ul>
+          <li>Recommendations for teachers​
+            <ul>
+              <li>Student-centric planning</li>
+              <li>How easy is it for students to learn how to use the technology?​</li>
+              <li>UI/UX</li>
+            </ul>
+          </li>
+          <li>Suggestions for future research​</li>
+          <li>Personal impact</li>
+        </ul>
         <img src="https://lh4.googleusercontent.com/4VP2hO4ML80TVPDVmtKklDQmTAnJ1j8UTcTLVU-YgwtnKaRNGbREQHD0PrwsZS5N-Dw4O583yWEsQ9RrSDBwZrk9HU93i9yjiIw0WyRxivSBWQYsfFEv_HCJHcBjAVSVAQ=w1280" alt="Presenting in Rochester, NY" style={{ display: 'block', margin: '0 auto' }}/>
       </>
     ),
