@@ -92,4 +92,9 @@
   display: inline-block; /* Allows margin/padding to take effect */
   margin-left: 20px; /* Adjust the value as needed for indentation */
 }
+
+.workItem {
+  display: flex; /* Use flexbox for alignment */
+  align-items: flex-start; /* Align items at the start */
+}
   
