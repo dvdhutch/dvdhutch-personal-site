@@ -82,4 +82,10 @@
   .arrowList li {
     margin: 5px 0; /* Add some space between items */
   }
+
+  /* In utils.module.css */
+.indentedText {
+  display: inline-block; /* Allows margin/padding to take effect */
+  margin-left: 20px; /* Adjust the value as needed for indentation */
+}
   

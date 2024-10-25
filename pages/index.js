@@ -29,9 +29,9 @@ export default function Home({ allPostsData }) {
         <p> Some of the things I'm most interested in include education technology, and in particular, the role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education, the <a href="http://paulgraham.com/cities.html">stories</a> cities tell, <a href="https://ourworldindata.org/">visualizing</a> human geography, particularly in the context of highlighting the <a href="https://www.segregationbydesign.com/">failure of urban renewal projects</a> and advocating for continued investment in large, sustainable <a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">infrastructure projects</a> in America, and by extension the world. </p>
         <h2>Accomplishments</h2>
         <ul className={utilStyles.arrowList}>
-          <li>➞ First product hire at <Link href="/page1"><a>Ohana</a></Link> -- built the <Link href="/page1"><a>company blog</a></Link> and early iterations of the <Link href="/page1"><a>neighborhood information tool</a></Link></li>
-          <li>➞ <Link href="/page2"><a>Item 2</a></Link></li>
-          <li>➞ <Link href="/page3"><a>Item 3</a></Link></li>
+          <li>
+            ➞ <span className={utilStyles.indentedText}>First product hire at <Link href="/page1"><a>Ohana</a></Link> -- built the <Link href="/page1"><a>company blog</a></Link> and early iterations of the <Link href="/page1"><a>neighborhood information tool</a></Link></span>
+          </li>
         </ul>
       </section>
 
@@ -47,7 +47,7 @@ export default function Home({ allPostsData }) {
       <div className={utilStyles.workDate}>2024</div>
     </div>
     <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Product Management Intern at <a href="https://www.liveohana.ai">Ohana</a></div>
+      <div className={utilStyles.workTitle}>PM Intern at <a href="https://www.liveohana.ai">Ohana</a></div>
       <div className={utilStyles.workDate}>2023</div>
     </div>
     <div className={utilStyles.workRow}>
