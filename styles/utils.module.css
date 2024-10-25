@@ -73,4 +73,13 @@
     flex-shrink: 0;
     margin-left: 1em;
   }
+
+  .arrowList {
+    list-style-type: none; /* Remove default bullets */
+    padding-left: 0; /* Remove left padding */
+  }
+  
+  .arrowList li {
+    margin: 5px 0; /* Add some space between items */
+  }
   
