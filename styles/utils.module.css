@@ -96,6 +96,9 @@
 .workItem {
   display: flex; /* Use flexbox for alignment */
   align-items: flex-start; /* Align items at the start */
-  margin-bottom: 20px;
+}
+
+.lightTextColor {
+  color: #00000066;
 }
   
