@@ -31,10 +31,10 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span> 
-            <span className={utilStyles.indentedTextLight}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link></span>
+            <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}>Built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
