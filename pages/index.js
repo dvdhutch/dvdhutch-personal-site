@@ -31,19 +31,19 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.lightTextColor}>The role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}>The role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.lightTextColor}>The <a href="http://paulgraham.com/cities.html">stories</a> cities tell</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}>The <a href="http://paulgraham.com/cities.html">stories</a> cities tell</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.lightTextColor}><a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">American Dynamism</a></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}><a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">American Dynamism</a></span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.lightTextColor}><a href="https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/">Early American History</a></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}><a href="https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/">Early American History</a></span>
           </li>
         </ul>
         
