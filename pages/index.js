@@ -31,10 +31,22 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>The role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>The role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>The <a href="http://paulgraham.com/cities.html">stories</a> cities tell</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}><a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">American Dynamism</a></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}><a href="https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/">Early American History</a></span>
           </li>
         </ul>
-        <p> Some of the things I'm most interested in include education technology, and in particular, , the <a href="http://paulgraham.com/cities.html">stories</a> cities tell, <a href="https://ourworldindata.org/">visualizing</a> human geography, particularly in the context of highlighting the <a href="https://www.segregationbydesign.com/">failure of urban renewal projects</a> and advocating for continued investment in large, sustainable <a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">infrastructure projects</a> in America, and by extension the world. </p>
+        
         <h2>Experience</h2>
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
