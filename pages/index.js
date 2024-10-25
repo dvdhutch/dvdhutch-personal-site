@@ -48,7 +48,7 @@ export default function Home({ allPostsData }) {
             <span className={utilStyles.indentedText}>CS Teacher at <Link href="https://las.ch"><a>Leysin American School</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Artificial Intelligence & Digital World: taught fundamental AI/ML concepts such as <Link href="https://www.firstlegoleague.org/"><a>beginner Python skills</a></Link>, machine learning basics, pattern matching, and supervised/unsupervised learning</span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Fundamental AI/ML concepts: <Link href="https://www.firstlegoleague.org/"><a>beginner Python skills</a></Link>, pattern matching, supervised/unsupervised learning</span>
           </li>
         </ul>
       </section>
