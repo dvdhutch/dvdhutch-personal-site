@@ -34,14 +34,14 @@ export default function Home({ allPostsData }) {
             <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
-            <span className={utilStyles.lightTextColor}>Built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}>Built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://liveohana.ai/"><a>Columbia University</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
-            <span className={utilStyles.lightTextColor}>I teach kids how to code robots and advise a <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}>I teach kids how to code robots and advise a <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
           </li>
         </ul>
       </section>
