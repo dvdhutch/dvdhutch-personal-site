@@ -53,28 +53,6 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
 
-      <section className={utilStyles.headingMd}>
-  <h2>Work</h2>
-  <div className={utilStyles.workContainer}>
-    <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Zankel Fellow, <a href="https://www.columbia.edu">Columbia University</a></div>
-      <div className={utilStyles.workDate}>2024-</div>
-    </div>
-    <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>CS Teacher at <a href="https://www.las.ch">Leysin American School</a></div>
-      <div className={utilStyles.workDate}>2024</div>
-    </div>
-    <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>PM Intern at <a href="https://www.liveohana.ai">Ohana</a></div>
-      <div className={utilStyles.workDate}>2023</div>
-    </div>
-    <div className={utilStyles.workRow}>
-      <div className={utilStyles.workTitle}>Founder at <a href="https://www.suoni.co">Suoni</a></div>
-      <div className={utilStyles.workDate}>2021-2022</div>
-    </div>
-  </div>
-</section>
-
 <section className={utilStyles.headingMd}>
   <h2>Education</h2>
   <div className={utilStyles.workContainer}>
