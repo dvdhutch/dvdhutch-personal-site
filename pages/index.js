@@ -28,9 +28,9 @@ export default function Home({ allPostsData }) {
         <p> Without fail, this question leads me to ponder, as I try to understand and piece together solutions to problems. Outwardly people describe me as calm and affable but inwardly I can't sit still and am always trying to figure out what comes next.</p>
         <p> Some of the things I'm most interested in include education technology, and in particular, the role of <a href="https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c">artificial intelligence</a> in the future of education, the <a href="http://paulgraham.com/cities.html">stories</a> cities tell, <a href="https://ourworldindata.org/">visualizing</a> human geography, particularly in the context of highlighting the <a href="https://www.segregationbydesign.com/">failure of urban renewal projects</a> and advocating for continued investment in large, sustainable <a href="https://www.noahpinion.blog/p/interview-patrick-collison-co-founder">infrastructure projects</a> in America, and by extension the world. </p>
         <ul className={utilStyles.arrowList}>
-          <li>-- Item 1</li>
-          <li>-- Item 2</li>
-          <li>-- Item 3</li>
+          <li>➜ <Link href="/page1"><a>Item 1</a></Link></li>
+          <li>➜ <Link href="/page2"><a>Item 2</a></Link></li>
+          <li>➜ <Link href="/page3"><a>Item 3</a></Link></li>
         </ul>
       </section>
 
