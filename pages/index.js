@@ -30,10 +30,14 @@ export default function Home({ allPostsData }) {
         <h2>Experience</h2>
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
-            <span className={utilStyles.arrow}>▶</span> 
-            <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link>&mdash;built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
-            <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://liveohana.ai/"><a>Columbia University</a></Link>&mdash;I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
+            <div>
+              <span className={utilStyles.arrow}>▶</span> 
+              <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link>&mdash;built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
+            </div>
+            <div>
+              <span className={utilStyles.arrow}>▶</span>
+              <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://liveohana.ai/"><a>Columbia University</a></Link>&mdash;I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
+            </div>
           </li>
         </ul>
       </section>
