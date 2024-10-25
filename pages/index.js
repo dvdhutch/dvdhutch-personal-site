@@ -30,7 +30,8 @@ export default function Home({ allPostsData }) {
         <h2>Accomplishments</h2>
         <ul className={utilStyles.arrowList}>
           <li>
-            ➞ <span className={utilStyles.indentedText}>First product hire at <Link href="/page1"><a>Ohana</a></Link> -- built the <Link href="/page1"><a>company blog</a></Link> and early iterations of the <Link href="/page1"><a>neighborhood information tool</a></Link></span>
+            <span className={utilStyles.arrow}>➞</span> 
+            <span className={utilStyles.indentedText}>First product hire at <Link href="/page1"><a>Ohana</a></Link> -- built the <Link href="/page1"><a>company blog</a></Link> and early iterations of the <Link href="/page1"><a>neighborhood information tool</a></Link></span>
           </li>
         </ul>
       </section>

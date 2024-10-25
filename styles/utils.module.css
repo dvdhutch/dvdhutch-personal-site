@@ -83,6 +83,10 @@
     margin: 5px 0; /* Add some space between items */
   }
 
+  .arrow {
+    display: inline; /* Keeps the arrow inline with the text */
+  }
+
   /* In utils.module.css */
 .indentedText {
   display: inline-block; /* Allows margin/padding to take effect */
