@@ -30,11 +30,11 @@ export default function Home({ allPostsData }) {
             <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a target="_blank">FLL team</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>CS Teacher at <Link href="https://las.ch"><a>Leysin American School</a></Link></span>
+            <span className={utilStyles.indentedText}>CS Teacher at <Link href="https://las.ch"><a target="_blank">Leysin American School</a></Link></span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Fundamental AI/ML concepts: beginner Python skills, pattern matching, supervised/unsupervised learning</span>
