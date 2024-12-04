@@ -21,12 +21,30 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> 👋 Hi, I'm David </p>
-        <p> 📍 I'm in <b>New York, New York</b></p>
-        <p> 📚 I'm reading: <i>Land of Promise: An Economic History of the United States</i></p>
-        <p> <b> What important truth do very few people agree with you on? Or, to the entrepreneur, what valuable company is nobody building? <a href="https://en.wikipedia.org/wiki/Zero_to_One">(<i>Thiel</i>)</a> </b> </p>
-        <p> Without fail, this question leads me to ponder, as I try to understand and piece together solutions to problems. Outwardly people describe me as calm and affable but inwardly I can't sit still and am always trying to figure out what comes next.</p>
-        <p> As an educator turned UX researcher and technologist, some of the most interesting topics to me are:</p>
+        <p>I live in New York and attend Teachers College, Columbia University. My previous experience includes:</p>
+        <ul className={utilStyles.arrowList}>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>CS Teacher at <Link href="https://las.ch"><a>Leysin American School</a></Link></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Fundamental AI/ML concepts: beginner Python skills, pattern matching, supervised/unsupervised learning</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span> 
+            <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai"><a target="_blank">Ohana</a></Link></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Built the <Link href="https://www.dhutch.fyi/portfolio/ohana_blog"><a>company blog</a></Link> and the <Link href="https://www.dhutch.fyi/portfolio/ohana_neighborhood"><a>neighborhood information tool</a></Link></span>
+          </li>
+        </ul>
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
@@ -43,31 +61,6 @@ export default function Home({ allPostsData }) {
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedText}`}><a href="https://sites.psu.edu/academy/2023/12/03/tales-of-water-and-mountains/">Early American History</a></span>
-          </li>
-        </ul>
-        
-        <h2>Experience</h2>
-        <ul className={utilStyles.arrowList}>
-          <li className={utilStyles.workItem}>
-            <span className={utilStyles.arrow}>▶</span> 
-            <span className={utilStyles.indentedText}>First product hire at <Link href="https://liveohana.ai/"><a>Ohana</a></Link></span>
-          </li>
-          <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Built the <Link href="https://liveohana.ai/blog/ohana-neo"><a>company blog</a></Link> and early iterations of the <Link href="https://liveohana.ai/sublet/new-york-city"><a>neighborhood information tool</a></Link></span>
-          </li>
-          <li className={utilStyles.workItem}>
-            <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://liveohana.ai/"><a>Columbia University</a></Link></span>
-          </li>
-          <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>I teach kids how to code robots and advise an <Link href="https://www.firstlegoleague.org/"><a>FLL team</a></Link></span>
-          </li>
-          <li className={utilStyles.workItem}>
-            <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>CS Teacher at <Link href="https://las.ch"><a>Leysin American School</a></Link></span>
-          </li>
-          <li className={utilStyles.workItem}>
-            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Fundamental AI/ML concepts: <Link href="https://www.firstlegoleague.org/"><a>beginner Python skills</a></Link>, pattern matching, supervised/unsupervised learning</span>
           </li>
         </ul>
       </section>
