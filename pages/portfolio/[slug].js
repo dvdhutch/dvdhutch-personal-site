@@ -90,6 +90,18 @@ const projectData = {
     ),
     tabTitle: 'Student Perceptions of Digital Learning Technology', // Custom tab title
   },
+  ohana_blog: {
+    title: '',
+    description: '',
+    imageUrl: '',
+    content: (
+      <>
+        <h1>Ohana Corporate Blog</h1>
+        <p>I developed this project as an intern and the first product hire at Ohana, an NYC-based startup building the Airbnb of subleasing. One of the first initiatives I took up as an intern was to sketch, prototype, and build Ohana's blog. The primary reason for this was to publicize Ohana’s recent pre-seed round with Neo, a startup incubator backed by industry figures like Ali Partovi, Emily Cohen, and others.</p>
+      </>
+    ),
+    tabTitle: 'Ohana Corporate Blog', // Custom tab title
+  },
 };
 
 export default function ProjectPage() {

@@ -54,12 +54,10 @@ export default function Home({ allPostsData }) {
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={utilStyles.indentedText}>MA, <a href="https://www.tc.columbia.edu" target="_blank">Teachers College, Columbia University</a></span>
-            <span className={utilStyles.workDate}>2024-</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={utilStyles.indentedText}><a href="https://www.shc.psu.edu" target="_blank">Penn State Schreyer Honors College</a></span>
-            <span className={utilStyles.workDate}>&nbsp;2020-2024</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
