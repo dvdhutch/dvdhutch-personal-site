@@ -1,16 +1,15 @@
 // components/layout.js
 import Head from 'next/head';
-import Image from 'next/image';
+import Link from 'next/link';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
-import Link from 'next/link';
 
 const name = 'David Hutchinson';
 export const siteTitle = 'David Hutchinson';
 
-export default function Layout({ children, home }) {
+export default function Layout({ children, home, isPortfolio }) {
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container} ${isPortfolio ? styles.portfolioContainer : ''}`}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="David Hutchinson" />
@@ -24,35 +23,19 @@ export default function Layout({ children, home }) {
         <div className={styles.navContainer}>
           <Link href="/"><a className={styles.navLink}>Home</a></Link>
           <Link href="/portfolio"><a className={styles.navLink}>Portfolio</a></Link>
-          <Link href="/essays"><a className={styles.navLink}>Essays</a></Link> {/* New Essays Page Link */}
+          <Link href="/essays"><a className={styles.navLink}>Essays</a></Link>
         </div>
       </nav>
 
       <header className={styles.header}>
         {home ? (
           <>
-            {/*<Image
-              priority
-              src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
-              height={200}
-              width={200}
-              alt={name}
-            />*/}
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
           <>
             <Link href="/">
               <a>
-                {/*<Image
-                  priority
-                  src="/images/profile.jpg"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
-                  alt={name}
-                />*/}
               </a>
             </Link>
             <h2 className={utilStyles.headingLg}>
@@ -63,16 +46,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      
-      <main>{children}</main>
-      
-      {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
-          </Link>
-        </div>
-      )}
+      {children}
     </div>
   );
 }
