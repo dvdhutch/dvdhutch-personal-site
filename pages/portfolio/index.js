@@ -34,7 +34,7 @@ export default function Portfolio() {
   ];
 
   return (
-    <Layout>
+    <Layout isPortfolio>
       <Head>
         <title>Portfolio</title>
       </Head>
