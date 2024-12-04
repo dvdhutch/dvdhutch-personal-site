@@ -50,22 +50,25 @@ export default function Home({ allPostsData }) {
       </section>
       <section className={utilStyles.headingMd}>
         <h3>Education</h3>
-        <div className={utilStyles.workContainer}>
-          <div className={utilStyles.workRow}>
-            <div className={utilStyles.workTitle}>MA, <a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></div>
-            <div className={utilStyles.workDate}>2024-</div>
-          </div>
-          <div className={utilStyles.workRow}>
-            <div className={utilStyles.workTitle}>BME, <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></div>
-            <div className={utilStyles.workDate}>2020-2024</div>
-          </div>
-          <div className={utilStyles.workRow}>
-            <div className={utilStyles.workTitle}><a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a></div>
-            <div className={utilStyles.workDate}>2021-2024</div>
-          </div>
-        </div>
-        <p> <a class='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
-        <p> <a class='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
+        <ul className={utilStyles.arrowList}>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>MA, <a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></span>
+            <span className={utilStyles.workDate}>2024-</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>BME, <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></span>
+            <span className={utilStyles.workDate}>2020-2024</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}><a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a></span>
+            <span className={utilStyles.workDate}>2021-2024</span>
+          </li>
+        </ul>
+        <p> <a className='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
+        <p> <a className='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
       </section>
 
 
