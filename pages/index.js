@@ -58,7 +58,7 @@ export default function Home({ allPostsData }) {
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>BME, <a href="https://www.shc.psu.edu" target="_blank">Penn State Schreyer Honors College</a></span>
+            <span className={utilStyles.indentedText}><a href="https://www.shc.psu.edu" target="_blank">Penn State Schreyer Honors College</a></span>
             <span className={utilStyles.workDate}>2020-2024</span>
           </li>
           <li className={utilStyles.workItem}>
