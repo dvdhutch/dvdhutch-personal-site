@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I live in New York and attend Teachers College, Columbia University. My previous experience includes:</p>
+        <p>I live in New York and am an MA candidate at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link>, where I'm involved . Before that, I've had a number of experiences building and teaching, but always invested in <Link href="https://map.simonsarris.com/p/careful-technology"><a>beautiful craft</a></Link>, <Link href="https://x.com/McConaughey/status/1822981269099028696"><a target="_blank">good design</a></Link>, and <Link href="https://linkedin.com/in/dvdhutch/#volunteering_experience"><a target="_blank">helping others</a></Link>.</p>
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
