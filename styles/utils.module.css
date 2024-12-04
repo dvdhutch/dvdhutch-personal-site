@@ -72,6 +72,7 @@
     text-align: right;
     flex-shrink: 0;
     margin-left: 1em;
+    width: 100px;
   }
 
   .arrowList {

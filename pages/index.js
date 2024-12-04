@@ -53,22 +53,22 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.arrowList}>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>MA, <a href="https://www.tc.columbia.edu">Teachers College, Columbia University</a></span>
+            <span className={utilStyles.indentedText}>MA, <a href="https://www.tc.columbia.edu" target="_blank">Teachers College, Columbia University</a></span>
             <span className={utilStyles.workDate}>2024-</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}>BME, <a href="https://www.shc.psu.edu">Penn State Schreyer Honors College</a></span>
+            <span className={utilStyles.indentedText}>BME, <a href="https://www.shc.psu.edu" target="_blank">Penn State Schreyer Honors College</a></span>
             <span className={utilStyles.workDate}>2020-2024</span>
           </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
-            <span className={utilStyles.indentedText}><a href="https://www.academy.psu.edu">Presidential Leadership Academy at Penn State</a></span>
+            <span className={utilStyles.indentedText}><a href="https://www.academy.psu.edu" target="_blank">Presidential Leadership Academy at Penn State</a></span>
             <span className={utilStyles.workDate}>2021-2024</span>
           </li>
         </ul>
-        <p> <a className='button' href="https://twitter.com/dvdhutch">Twitter</a></p>
-        <p> <a className='button' href="https://www.linkedin.com/in/dvdhutch/">LinkedIn</a></p>
+        <p> <a className='button' href="https://twitter.com/dvdhutch" target="_blank">Twitter</a></p>
+        <p> <a className='button' href="https://www.linkedin.com/in/dvdhutch/" target="_blank">LinkedIn</a></p>
       </section>
 
 
