@@ -8,6 +8,12 @@ import Link from 'next/link';
 export default function Portfolio() {
   const projects = [
     {
+      title: 'Ohana Neighborhood Informational Tool',
+      description: 'Developed sketches and drafted prototypes for early iterations of "Ohana\'s ultimate guide to subletting" - featuring the best neighborhoods to live in, and the things that are happening in them. Worked with team to build the front-end, and has since expanded to service other geographies (e.g. Pittsburgh, San Francisco, Seattle).',
+      imageUrl: '/images/Ohana neighborhood homepage final 2.png',
+      slug: 'ohana_neighborhood',
+    },
+    {
       title: 'Ohana Corporate Blog',
       description: 'Ideated, sketched, protyped, and built Ohana\'s corporate blog for company announcements and SEO marketing.',
       imageUrl: '/images/Ohana blog page final.png',
