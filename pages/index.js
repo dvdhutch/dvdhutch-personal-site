@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I live in New York and am an MA candidate at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link>, where I'm involved in the <Link href="https://www.snowdaylearninglab.org/team"><a target="_blank">Snow Day Learning Lab</a></Link> and <Link href="https://tltlab.org/"><a target="_blank">Transformative Learning Technologies Lab</a></Link>.</p>
+        <p>I live in New York and am an MA candidate at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link>, where I'm involved in the <Link href="https://www.snowdaylearninglab.org/team"><a target="_blank">Snow Day Learning Lab</a></Link> and <Link href="https://tltlab.org/"><a target="_blank">Transformative Learning Technologies Lab, and do UX work for <Link href="https://www.harlemcolab.com/"><a target="_blank">Harlem CoLAB</a></Link>.</a></Link>.</p>
         <p>Before that, I've had a number of experiences building and teaching, but always invested in <Link href="https://map.simonsarris.com/p/careful-technology"><a target="_blank">beautiful craft</a></Link>, <Link href="https://x.com/McConaughey/status/1822981269099028696"><a target="_blank">good design</a></Link>, and <Link href="https://linkedin.com/in/dvdhutch/#volunteering_experience"><a target="_blank">helping others</a></Link>.</p>
         <h3>Experience</h3>
         <ul className={utilStyles.arrowList}>
