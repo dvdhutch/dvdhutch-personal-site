@@ -9,7 +9,7 @@ export default function Portfolio() {
   const projects = [
     {
       title: 'Ohana Neighborhood Informational Tool',
-      description: '"Ohana\'s ultimate guide to subletting" - featuring the best neighborhoods to live in, and the things that are happening in them. Worked with team to build the front-end, and has since expanded to service other geographies.',
+      description: 'Ohana\'s ultimate guide to subletting - featuring the best neighborhoods to live in, and the things that are happening in them. Worked with team to build the front-end, and has since expanded to service other geographies.',
       imageUrl: '/images/Ohana neighborhood homepage final 2.png',
       slug: 'ohana_neighborhood',
     },
