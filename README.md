@@ -1,6 +1,4 @@
-Source code for my personal website/blog/portfolio/whatever-else-I-want-to-use-it-for
-
-[**How I Made This Website**](https://www.dhutch.fyi/posts/website)
+Personal home on the internet, collection of projects, and other musings. Want to make this site for yourself? Check out [**How I Made This Website**](https://www.dhutch.fyi/posts/website).
 
 **Attribution**
 
