@@ -64,7 +64,6 @@ export default function Home({ allPostsData }) {
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={utilStyles.indentedText}><a href="https://www.academy.psu.edu" target="_blank">Presidential Leadership Academy at Penn State</a></span>
-            <span className={utilStyles.workDate}>2021-2024</span>
           </li>
         </ul>
         <p> <a className='button' href="https://twitter.com/dvdhutch" target="_blank">Twitter</a></p>
