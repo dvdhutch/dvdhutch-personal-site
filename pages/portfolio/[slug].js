@@ -112,9 +112,13 @@ const projectData = {
         <p>I also sketched the design for the blog posts.</p>
         <img src="/images/Blog page sketch-4.jpg" alt="Ohana blog post sketch" style={{ display: 'block', margin: '0 auto'}}></img>
         <h2>Prototyping</h2>
-        <p>Next, I refined my sketches into full prototpyes in Figma.</p>
+        <p>Next, I refined my sketches into full prototpyes in Figma. The goal here was to have renders for desktop and mobile devices before beginning to build.</p>
         <img src="/images/Ohana blog - desktop.svg" alt="Ohana blog desktop prototype" style={{ display: 'block', margin: '0 auto'}}></img>
-
+        <img src="/images/Ohana blog - mobile.svg" alt="Ohana blog mobile prototype" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h2>Production</h2>
+        <p>The <a href="https://liveohana.ai/blog_home" target="_blank">blog</a> was pushed to production in mid-2023 and has housed Ohana's corporate updates since that time.</p>
+        <img src="/images/Ohana blog homepage final.png" alt="Ohana blog homepage final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <img src="/images/Ohana blog page final.png" alt="Ohana blog post final" style={{ display: 'block', margin: '0 auto'}}></img>
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
