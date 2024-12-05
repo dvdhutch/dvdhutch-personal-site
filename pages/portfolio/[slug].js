@@ -103,7 +103,7 @@ const projectData = {
           <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
           <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
         </ul>
-        <p>I developed this project as an intern and the first product hire at Ohana, an NYC-based startup building the Airbnb of subleasing. One of the first initiatives I took up as an intern was to sketch, prototype, and build Ohana's blog. The primary reason for this was to publicize Ohana’s recent pre-seed round with Neo, a startup incubator backed by industry figures like Ali Partovi, Emily Cohen, and others.</p>
+        <p>I developed this project as an intern and the first product hire at <a href="https://liveohana.ai" target="_blank">Ohana</a>, an NYC-based startup building the Airbnb of subleasing. One of the first initiatives I took up as an intern was to sketch, prototype, and build Ohana's blog. The primary reason for this was to publicize Ohana’s recent pre-seed round with Neo, a startup incubator backed by industry figures like Ali Partovi, Emily Cohen, and others.</p>
         <h2>References and Sketches</h2>
         <p>The aim was to design a corporate blog, for external use, that was simple and concise, all while meeting our SEO goals. <a href="https://www.apple.com/newsroom/" target="blank">Apple's Newsroom</a> served as a primary source of inspiration. Its plain, sleek look keeps the focus on the content and away from other bells and whistles, reserved for the product.</p>
         <img src="/images/apple reference.png" alt="Apple Newsroom" style={{ display: 'block', margin: '0 auto'}}></img>
@@ -138,11 +138,14 @@ const projectData = {
           <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
           <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
         </ul>
-        <p>I developed this project as an intern and the first product hire at Ohana, an NYC-based startup building the Airbnb of subleasing. This project combined an interest in anthropogeography (that is, the study of how humans interact with their environment) and designing user interactions for Ohana's product.</p>
+        <p>I developed this project as an intern and the first product hire at <a href="https://liveohana.ai" target="_blank">Ohana</a>, an NYC-based startup building the Airbnb of subleasing. This project combined an interest in anthropogeography (that is, the study of how humans interact with their environment) and designing user interactions for Ohana's product.</p>
         <h2>References and Sketches</h2>
         <p>Google Maps does a good job displaying important information for a tourist in a neighborhood, but lacks the depth and bespoke information an apartment hunter would be looking for in a neighborhood overview. Conversely, Wikipedia offers a user tons of information, but can be overbearing for the purposes of apartment hunting. Also, it was important for myself and the Ohana team to tailor content for our user demographic, which skews young. Users mentioned that they wanted to see things like upcoming events and transit access—things that younger users would place a higher value on—and things that would be important to include  for transplants moving the cities that they have limited experience in.</p>
         <img src="/images/Google maps example.png" alt="Google Maps example" style={{ display: 'block', margin: '0 auto'}}></img>
-        
+        <p>The first step was to go to the (figurative) drawing board and sketch out how the user would interact with the many neighborhoods Ohana listings were located in.</p>
+        <p>Often times the simplest path is the the best path, particularly for a more complex user interaction like selecting a neighborhood (considering that most users aren't familiar with the details of the neighborhood). With this in mind, the overall structure of the neighborhoods on the site were to be split into cities, with cards for each neighborhood in the specified city.</p>
+        <img src="/images/NYC homepage sketch-5.jpg" alt="NYC neighborhood homepage sketch" style={{ display: 'block', margin: '0 auto'}}></img>
+
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
