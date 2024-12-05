@@ -118,6 +118,7 @@ const projectData = {
         <h2>Production</h2>
         <p>The <a href="https://liveohana.ai/blog_home" target="_blank">blog</a> was pushed to production in mid-2023 and has housed Ohana's corporate updates since that time.</p>
         <img src="/images/Ohana blog homepage final.png" alt="Ohana blog homepage final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p></p>
         <img src="/images/Ohana blog page final.png" alt="Ohana blog post final" style={{ display: 'block', margin: '0 auto'}}></img>
       </>
     ),
