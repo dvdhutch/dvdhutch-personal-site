@@ -149,7 +149,7 @@ const projectData = {
         <p>An additional feature you might notice in this early sketch are upcoming events-another feature geared towards a young demographic.</p>
         <h3>Detailed Neighborhood Page</h3>
         <p>The detailed page sketch includes relevant info for the user such as a brief overview of the neighborhood, transit, walking, and biking options, and a display of clicklable listings located in that neighborhood.</p>
-        <img src="/images/Hell's Kitchen page sketch-6.jpg" alt="Detailed neighborhood page sketch" style={{ display: 'block', margin: '0 auto'}}></img>
+        <img src="/images/Hell’s Kitchen page sketch-6.jpg" alt="Detailed neighborhood page sketch" style={{ display: 'block', margin: '0 auto'}}></img>
         <h2>Prototyping</h2>
         <p>The two prototypes for this project were for the neighborhood homepage (New York City) and a detailed neighborhood page (Hell's Kitchen). 
         <img src="/images/Neighborhood landing page.svg" alt="NYC neighborhood homepage prototype" style={{ display: 'block', margin: '0 auto'}}></img>
