@@ -97,6 +97,12 @@ const projectData = {
     content: (
       <>
         <h1>Ohana Corporate Blog</h1>
+        <h3>Stack</h3>
+        <ul>
+          <li><a href="https://www.goodnotes.com" target="_blank">Goodnotes</a> (sketching)</li>
+          <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
+          <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
+        </ul>
         <p>I developed this project as an intern and the first product hire at Ohana, an NYC-based startup building the Airbnb of subleasing. One of the first initiatives I took up as an intern was to sketch, prototype, and build Ohana's blog. The primary reason for this was to publicize Ohana’s recent pre-seed round with Neo, a startup incubator backed by industry figures like Ali Partovi, Emily Cohen, and others.</p>
         <h2>References and Sketches</h2>
         <p>The aim was to design a corporate blog, for external use, that was simple and concise, all while meeting our SEO goals. <a href="https://www.apple.com/newsroom/" target="blank">Apple's Newsroom</a> served as a primary source of inspiration. Its plain, sleek look keeps the focus on the content and away from other bells and whistles, reserved for the product.</p>
