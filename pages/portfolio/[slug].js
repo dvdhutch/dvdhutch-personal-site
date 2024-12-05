@@ -109,6 +109,12 @@ const projectData = {
         <img src="/images/apple reference.png" alt="Apple Newsroom" style={{ display: 'block', margin: '0 auto'}}></img>
         <p>I started by making some rough sketches of how I wanted the blog to look and be styled. To begin, I sketched the blog's landing page, housing all of the posts on the site.</p>
         <img src="/images/Blog homepage sketch-3.jpg" alt="Ohana blog homepage sketch" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p>I also sketched the design for the blog posts.</p>
+        <img src="/images/Blog page sketch-4.jpg" alt="Ohana blog post sketch" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h2>Prototyping</h2>
+        <p>Next, I refined my sketches into full prototpyes in Figma.</p>
+        <img src="/images/Ohana blog - desktop.svg" alt="Ohana blog desktop prototype" style={{ display: 'block', margin: '0 auto'}}></img>
+
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
