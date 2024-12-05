@@ -137,7 +137,11 @@ const projectData = {
           <li><a href="https://www.goodnotes.com" target="_blank">Goodnotes</a> (sketching)</li>
           <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
           <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
+          <li><a href="https://www.hotjar.com/" target="_blank">Hotjar</a> (usability testing)</li>
         </ul>
+        <h2>The Problem</h2>
+        <p>Users, particularly young users (our target demographic), really wanted to know where things are happening, and where listings are in relation to those happenings.</p>
+        <p>We employed Hotjar as a tool for analyzing user behavior and tracking sessions. Concurrently, the very first iteration of Ohana's product was launched, featuring an interactive map to browse listings. As soon as there was a map for users to visualize listings, they wanted to see the neighborhood the listing was located in, by increasing detail on nearby POIs and searching for various happenings in those neighborhoods, such as its walkability, proximity to transit, and live events.</p>
         <p>I developed this project as an intern and the first product hire at <a href="https://liveohana.ai" target="_blank">Ohana</a>, an NYC-based startup building the Airbnb of subleasing. This project combined an interest in anthropogeography (that is, the study of how humans interact with their environment) and designing user interactions for Ohana's product.</p>
         <h2>References and Sketches</h2>
         <p>Google Maps does a good job displaying important information for a tourist in a neighborhood, but lacks the depth and bespoke information an apartment hunter would be looking for in a neighborhood overview. Conversely, Wikipedia offers a user tons of information, but can be overbearing for the purposes of apartment hunting. Also, it was important for myself and the Ohana team to tailor content for our user demographic, which skews young. Users mentioned that they wanted to see things like upcoming events and transit access—things that younger users would place a higher value on—and things that would be important to include  for transplants moving the cities that they have limited experience in.</p>
