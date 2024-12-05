@@ -139,10 +139,11 @@ const projectData = {
           <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
           <li><a href="https://www.hotjar.com/" target="_blank">Hotjar</a> (usability testing)</li>
         </ul>
+        <p>I developed this project as an intern and the first product hire at <a href="https://liveohana.ai" target="_blank">Ohana</a>, an NYC-based startup building the Airbnb of subleasing. This project combined my first exposure to usability testing in a formal context and designing user interactions for Ohana's product.</p>
         <h2>The Problem</h2>
         <p>Users, particularly young users (our target demographic), really wanted to know where things are happening, and where listings are in relation to those happenings.</p>
-        <p>We employed Hotjar as a tool for analyzing user behavior and tracking sessions. Concurrently, the very first iteration of Ohana's product was launched, featuring an interactive map to browse listings. As soon as there was a map for users to visualize listings, they wanted to see the neighborhood the listing was located in, by increasing detail on nearby POIs and searching for various happenings in those neighborhoods, such as its walkability, proximity to transit, and live events.</p>
-        <p>I developed this project as an intern and the first product hire at <a href="https://liveohana.ai" target="_blank">Ohana</a>, an NYC-based startup building the Airbnb of subleasing. This project combined an interest in anthropogeography (that is, the study of how humans interact with their environment) and designing user interactions for Ohana's product.</p>
+        <p>We employed Hotjar as a tool for analyzing user behavior and watching session replays. Concurrently, the very first iteration of Ohana's product was launched, featuring an interactive map to browse listings. As soon as there was a map for users to visualize listings, they wanted to see the neighborhood the listing was located in. This could be tracked by observing users increasing detail on nearby POIs and searching for various happenings in those neighborhoods, such as its walkability, proximity to transit, and live events.</p>
+        <p>Addressing the gaps in the customer journey via usability testing was an important first step in this project, and I reported directly to the co-founder/CTO with my data to consider how to implement any necessary changes in the service. My goal was to build out a new way for users to look at listings by locale, enabling them to visualize amenities available in a certain geographical area while still maintaing the ease of searching for listings interactively on a map.</p>
         <h2>References and Sketches</h2>
         <p>Google Maps does a good job displaying important information for a tourist in a neighborhood, but lacks the depth and bespoke information an apartment hunter would be looking for in a neighborhood overview. Conversely, Wikipedia offers a user tons of information, but can be overbearing for the purposes of apartment hunting. Also, it was important for myself and the Ohana team to tailor content for our user demographic, which skews young. Users mentioned that they wanted to see things like upcoming events and transit access—things that younger users would place a higher value on—and things that would be important to include  for transplants moving the cities that they have limited experience in.</p>
         <img src="/images/Google maps example.png" alt="Google Maps example" style={{ display: 'block', margin: '0 auto'}}></img>
@@ -170,7 +171,8 @@ const projectData = {
         <img src="/images/Hell's Kitchen page final.png" alt="Hell's kitchen page final" style={{ display: 'block', margin: '0 auto'}}></img>
         <h2>Check it out!</h2>
         <p>Are you looking for a place to sublease in a new city? Want to sublet your place? <a href="https://liveohana.ai/sublet/new-york-city" target="_blank">Check out the Ohana Neighborhood Information Tool</a>.</p>
-
+        <h2>What I Would Change</h2>
+        <p>If I were still involved on this project, I would like to conduct a follow-up study with users to get a better sense of how this solution solves their pain points, and evaluate if there are any omissions from our initial usability study. This would have provided an opportunity to validate the design with users.</p>
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
