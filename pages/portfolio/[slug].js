@@ -101,6 +101,8 @@ const projectData = {
         <h2>References and Sketches</h2>
         <p>The aim was to design a corporate blog, for external use, that was simple and concise, all while meeting our SEO goals. <a href="https://www.apple.com/newsroom/" target="blank">Apple's Newsroom</a> served as a primary source of inspiration. Its plain, sleek look keeps the focus on the content and away from other bells and whistles, reserved for the product.</p>
         <img src="/images/apple reference.png" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p>I started by making some rough sketches of how I wanted the blog to look and be styled. To begin, I sketched the blog's landing page, housing all of the posts on the site.</p>
+        <img src="/images/Blog homepage sketch-3" alt="Topic Model" style={{ display: 'block', margin: '0 auto'}}></img>
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
