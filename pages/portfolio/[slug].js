@@ -120,6 +120,29 @@ const projectData = {
         <img src="/images/Ohana blog homepage final.png" alt="Ohana blog homepage final" style={{ display: 'block', margin: '0 auto'}}></img>
         <p></p>
         <img src="/images/Ohana blog page final.png" alt="Ohana blog post final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p>Thanks for reading! Another project I did as an intern was <a href="https://www.dhutch.fyi/portfolio/ohana_neighborhood">Ohana's Neighborhood Information tool</a>.</p>
+      </>
+    ),
+    tabTitle: 'Ohana Corporate Blog', // Custom tab title
+  },
+  ohana_neighborhood: {
+    title: '',
+    description: '',
+    imageUrl: '',
+    content: (
+      <>
+        <h1>Ohana Neighborhood Information Tool</h1>
+        <h3>Stack</h3>
+        <ul>
+          <li><a href="https://www.goodnotes.com" target="_blank">Goodnotes</a> (sketching)</li>
+          <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
+          <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
+        </ul>
+        <p>I developed this project as an intern and the first product hire at Ohana, an NYC-based startup building the Airbnb of subleasing. This project combined an interest in anthropogeography (that is, the study of how humans interact with their environment) and designing user interactions for Ohana's product.</p>
+        <h2>References and Sketches</h2>
+        <p>Google Maps does a good job displaying important information for a tourist in a neighborhood, but lacks the depth and bespoke information an apartment hunter would be looking for in a neighborhood overview. Conversely, Wikipedia offers a user tons of information, but can be overbearing for the purposes of apartment hunting. Also, it was important for myself and the Ohana team to tailor content for our user demographic, which skews young. Users mentioned that they wanted to see things like upcoming events and transit access—things that younger users would place a higher value on—and things that would be important to include  for transplants moving the cities that they have limited experience in.</p>
+        <img src="/images/Google maps example.png" alt="Google Maps example" style={{ display: 'block', margin: '0 auto'}}></img>
+        
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
