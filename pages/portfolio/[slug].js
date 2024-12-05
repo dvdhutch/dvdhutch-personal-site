@@ -151,10 +151,22 @@ const projectData = {
         <p>The detailed page sketch includes relevant info for the user such as a brief overview of the neighborhood, transit, walking, and biking options, and a display of clicklable listings located in that neighborhood.</p>
         <img src="/images/Hell’s Kitchen page sketch-6.jpg" alt="Detailed neighborhood page sketch" style={{ display: 'block', margin: '0 auto'}}></img>
         <h2>Prototyping</h2>
-        <p>The two prototypes for this project were for the neighborhood homepage (New York City) and a detailed neighborhood page (Hell's Kitchen). 
-        <img src="/images/Neighborhood landing page.svg" alt="NYC neighborhood homepage prototype" style={{ display: 'block', margin: '0 auto'}}></img>
-        
-        </p>
+        <p>The two prototypes for this project were for the neighborhood homepage (New York City) and a detailed neighborhood page (Hell's Kitchen).</p>
+        <img src="/images/Neighborhood landing page.jpg" alt="NYC neighborhood landing page prototype" style={{ display: 'block', margin: '0 auto'}}></img>
+        <img src="/images/Neighborhood detailed view.jpg" alt="NYC neighborhood detaild page prototype" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p>The focus of these prototypes was engagement, while keeping a sleek and simple look. The eyes should be driven to listings, which is the ultimate goal of the tool.</p>
+        <h2>Production</h2>
+        <h3>Neighborhood Homepage</h3>
+        <p>The city landing page for New York was pushed to production in mid-2023, which features an interactive map of listing city-wide.</p>
+        <img src="/images/Ohana neighborhood homepage final 1.png" alt="NYC neighborhood landing page final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <p>Below that, there are clickable cards tailored to specific city neighborhoods.</p>
+        <img src="/images/Ohana neighborhood homepage final 2.png" alt="NYC neighborhood landing page final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h3>Detailed Neighborhood Page</h3>
+        <p>The detailed neighborhood page features the same detail as the prototype, including transportation accessability, and importantly, an interactive map of live listings.</p>
+        <img src="/images/Hell's Kitchen page final.png" alt="Hell's kitchen page final" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h2>Check it out!</h2>
+        <p>Are you looking for a place to sublease in a new city? Want to sublet your place? <a href="https://liveohana.ai/sublet/new-york-city" target="_blank">Check out the Ohana Neighborhood Information Tool</a>.</p>
+
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
