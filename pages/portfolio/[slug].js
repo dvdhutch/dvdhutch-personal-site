@@ -142,10 +142,19 @@ const projectData = {
         <h2>References and Sketches</h2>
         <p>Google Maps does a good job displaying important information for a tourist in a neighborhood, but lacks the depth and bespoke information an apartment hunter would be looking for in a neighborhood overview. Conversely, Wikipedia offers a user tons of information, but can be overbearing for the purposes of apartment hunting. Also, it was important for myself and the Ohana team to tailor content for our user demographic, which skews young. Users mentioned that they wanted to see things like upcoming events and transit access—things that younger users would place a higher value on—and things that would be important to include  for transplants moving the cities that they have limited experience in.</p>
         <img src="/images/Google maps example.png" alt="Google Maps example" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h3>Neighborhood Homepage</h3>
         <p>The first step was to go to the (figurative) drawing board and sketch out how the user would interact with the many neighborhoods Ohana listings were located in.</p>
         <p>Often times the simplest path is the the best path, particularly for a more complex user interaction like selecting a neighborhood (considering that most users aren't familiar with the details of the neighborhood). With this in mind, the overall structure of the neighborhoods on the site were to be split into cities, with cards for each neighborhood in the specified city.</p>
         <img src="/images/NYC homepage sketch-5.jpg" alt="NYC neighborhood homepage sketch" style={{ display: 'block', margin: '0 auto'}}></img>
-
+        <p>An additional feature you might notice in this early sketch are upcoming events-another feature geared towards a young demographic.</p>
+        <h3>Detailed Neighborhood Page</h3>
+        <p>The detailed page sketch includes relevant info for the user such as a brief overview of the neighborhood, transit, walking, and biking options, and a display of clicklable listings located in that neighborhood.</p>
+        <img src="/images/Hell's Kitchen page sketch-6.jpg" alt="Detailed neighborhood page sketch" style={{ display: 'block', margin: '0 auto'}}></img>
+        <h2>Prototyping</h2>
+        <p>The two prototypes for this project were for the neighborhood homepage (New York City) and a detailed neighborhood page (Hell's Kitchen). 
+        <img src="/images/Neighborhood landing page.svg" alt="NYC neighborhood homepage prototype" style={{ display: 'block', margin: '0 auto'}}></img>
+        
+        </p>
       </>
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
