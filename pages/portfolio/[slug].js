@@ -177,6 +177,28 @@ const projectData = {
     ),
     tabTitle: 'Ohana Corporate Blog', // Custom tab title
   },
+  academic_wagers: {
+    title: '',
+    description: '',
+    imageUrl: '',
+    content: (
+      <>
+        <h1>Academic Wagers</h1>
+        <h3>Stack</h3>
+        <ul>
+          <li><a href="https://www.goodnotes.com" target="_blank">Goodnotes</a> (sketching)</li>
+          <li><a href="https://www.figma.com" target="_blank">Figma</a> (prototyping)</li>
+          <li><a href="https://www.bubble.io" target="_blank">Bubble</a> (interaction design, front-end development)</li>
+          <li><a href="https://www.hotjar.com/" target="_blank">Hotjar</a> (usability testing)</li>
+        </ul>
+        <p>Collaborative MSTU 5003 (Programming I) final project with Daniel Barth at Teachers College, Columbia University.</p>
+        <h2>The Problem</h2>
+        <p>The present market lacks a bookmaker for academic bets. Our product allows users to register a unique academic profile regarding institution, major, and graduation year. Users place bets on the chances of passing or failing a specific academit item, such as an exam, paper, assessment, or any other type of measurable assignment.</p>
+
+      </>
+    ),
+    tabTitle: 'Academic Wagers', // Custom tab title
+  },
 };
 
 export default function ProjectPage() {

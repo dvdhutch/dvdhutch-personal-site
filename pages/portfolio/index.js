@@ -8,6 +8,12 @@ import Link from 'next/link';
 export default function Portfolio() {
   const projects = [
     {
+      title: 'Academic Wagers',
+      description: 'Polymarket-stle wagers on academic outcomes. Making learning engaging, fun, and rewarding.',
+      imageUrl: '/images/',
+      slug: 'academic_wagers',
+    },
+    {
       title: 'Ohana Neighborhood Informational Tool',
       description: 'Ohana\'s ultimate guide to subletting - featuring the best neighborhoods to live in, and the things that are happening in them. Worked with team to build the front-end, and has since expanded to service other geographies.',
       imageUrl: '/images/Ohana neighborhood homepage final 2.png',
