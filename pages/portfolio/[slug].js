@@ -179,7 +179,7 @@ const projectData = {
   },
   academic_wagers: {
     title: 'Academic Wagers',
-    description: 'Polymarket-stle wagers on academic outcomes. Making learning engaging, fun, and rewarding. MSTU 5003 (Programming I) final project with Daniel Barth at Teachers College, Columbia University.',
+    description: 'Polymarket-style wagers on academic outcomes. Making learning engaging, fun, and rewarding. MSTU 5003 (Programming I) final project with Daniel Barth at Teachers College, Columbia University.',
     imageUrl: '/images/academic_wagers_img.png',
     externalUrl: 'https://dvdhutch.github.io/Academic-Wagers/',
     tabTitle: 'Academic Wagers', // Custom tab title

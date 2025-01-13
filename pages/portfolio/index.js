@@ -9,7 +9,7 @@ export default function Portfolio() {
   const projects = [
     {
       title: 'Academic Wagers',
-      description: 'Polymarket-stle wagers on academic outcomes. Making learning engaging, fun, and rewarding.',
+      description: 'Polymarket-style wagers on academic outcomes. Making learning engaging, fun, and rewarding.',
       imageUrl: '/images/academic_wagers_img.png',
       slug: 'academic_wagers',
     },
