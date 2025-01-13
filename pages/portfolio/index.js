@@ -10,7 +10,7 @@ export default function Portfolio() {
     {
       title: 'Academic Wagers',
       description: 'Polymarket-stle wagers on academic outcomes. Making learning engaging, fun, and rewarding.',
-      imageUrl: '/images/',
+      imageUrl: '/images/academic_wagers_img.png',
       slug: 'academic_wagers',
     },
     {
