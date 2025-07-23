@@ -21,10 +21,22 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I live in New York and am an MA candidate at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link>, where I'm involved in the <Link href="https://www.snowdaylearninglab.org/team"><a target="_blank">Snow Day Learning Lab</a></Link> and <Link href="https://tltlab.org/"><a target="_blank">Transformative Learning Technologies Lab</a></Link>, and do UX work for <Link href="https://www.harlemcolab.com/"><a target="_blank">Harlem CoLAB</a></Link>.</p>
+        <p>I live in New York and lead <a href="https://helvetica-labs.com" target="_blank">Helvetica Labs</a>, where we're working on making AI tools for education and learning, and more broadly, increasing the world's IQ. Check out <a href="https://vevey.ai" target="_blank">Vevey</a>, our AI-game maker! If you work for a school, we want to talk to you. Vevey is already used by a few hundred students!</p>
+        <p>Also, I'm an MA candidate at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link>, where I'm involved in the <Link href="https://www.snowdaylearninglab.org/team"><a target="_blank">Snow Day Learning Lab</a></Link> and <Link href="https://www.harlemcolab.com/"><a target="_blank">Harlem CoLAB</a></Link>.</p>
         <p>Before that, I've had a number of experiences building and teaching, but always invested in <Link href="https://map.simonsarris.com/p/careful-technology"><a target="_blank">beautiful craft</a></Link>, <Link href="https://x.com/McConaughey/status/1822981269099028696"><a target="_blank">good design</a></Link>, and <Link href="https://linkedin.com/in/dvdhutch/#volunteering_experience"><a target="_blank">helping others</a></Link>.</p>
         <h3>Experience</h3>
         <ul className={utilStyles.arrowList}>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>Co-founder at <Link href="https://helvetica-labs.com"><a target="_blank">Helvetica Labs</a></Link></span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={`${utilStyles.lightTextColor} ${utilStyles.indentedTextLight}`}>Building <Link href="https://vevey.ai"><a target="_blank">Vevey</a></Link> to let kids create games and build AI literacy for tomorrow's economy</span>
+          </li>
+          <li className={utilStyles.workItem}>
+            <span className={utilStyles.arrow}>▶</span>
+            <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link></span>
+          </li>
           <li className={utilStyles.workItem}>
             <span className={utilStyles.arrow}>▶</span>
             <span className={utilStyles.indentedText}>Zankel Fellow at <Link href="https://columbia.edu"><a target="_blank">Columbia University</a></Link></span>
