@@ -28,7 +28,7 @@ export default function Home() {
           <li>
             CS Teacher at <a href="https://www.las.ch/" target="_blank">Leysin American School</a>
             <ul>
-              <li className={utilStyles.lightText}>Intro AI/ML at Swiss boarding school</li>
+              <li className={utilStyles.lightText}>AI/ML at Swiss boarding school</li>
             </ul>
           </li>
           <li>

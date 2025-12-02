@@ -15,7 +15,7 @@ export default function About() {
             In 2011 Andreesen Horowitz published <em><a href="https://a16z.com/why-software-is-eating-the-world/" target="_blank">Why Software Is Eating the World</a></em>
             <ul>
               <li className={utilStyles.lightText}>Today, you can swap every mention of 'software' and replace it with 'models'</li>
-              <li className={utilStyles.lightText}>E.g. <em>Why Models are Eating the World</em></li>
+              <li className={utilStyles.lightText}>E.g. <em><a href="/why-models-are-eating-the-world">Why Models are Eating the World</a></em></li>
             </ul>
           </li>
           <li>
