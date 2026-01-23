@@ -107,4 +107,12 @@
 .lightTextColor {
   color: #00000066;
 }
+
+.subtitle {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #666;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+}
   

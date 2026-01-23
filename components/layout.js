@@ -7,7 +7,7 @@ import utilStyles from '../styles/utils.module.css';
 const name = 'David Hutchinson';
 export const siteTitle = 'David Hutchinson';
 
-export default function Layout({ children, home, isPortfolio, useHomeHeading }) {
+export default function Layout({ children, home, isPortfolio, useHomeHeading, subtitle }) {
   return (
     <div className={`${styles.container} ${isPortfolio ? styles.portfolioContainer : ''}`}>
       <Head>
@@ -30,6 +30,9 @@ export default function Layout({ children, home, isPortfolio, useHomeHeading }) 
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
             </h1>
+            {subtitle && (
+              <p className={utilStyles.subtitle} dangerouslySetInnerHTML={{ __html: subtitle }} />
+            )}
           </>
         ) : (
           <>

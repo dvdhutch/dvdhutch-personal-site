@@ -3,8 +3,10 @@ import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 
 export default function WhyModelsAreEatingTheWorld() {
+  const subtitle = 'This is an adaptation of <em><a href="https://a16z.com/why-software-is-eating-the-world/">Why Software Is Eating the World</a></em> by Marc Andreessen, originally published on August 20, 2011.';
+  
   return (
-    <Layout useHomeHeading>
+    <Layout useHomeHeading subtitle={subtitle}>
       <Head>
         <title>Why Models Are Eating the World - {siteTitle}</title>
       </Head>
