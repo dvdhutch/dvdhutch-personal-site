@@ -10,13 +10,13 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I live in New York and lead <a href="https://www.helvetica-labs.com/" target="_blank">Helvetica Labs</a>, where we're building <a href="https://www.vevey.ai/" target="_blank">Vevey</a>, an AI game engine.</p>
+        <p>I live in New York and lead <a href="https://www.helvetica-labs.com/" target="_blank">Helvetica Labs</a>, where we're building <a href="https://www.vevey.ai/" target="_blank">Vevey</a>, a tool for kids to build games with AI.</p>
         <p>Before that I've enjoyed building products and teaching. Some highlights include:</p>
         <ul>
           <li>
             Built <a href="https://www.landmarkr.app/" target="_blank">Landmarkr</a>
             <ul>
-              <li className={utilStyles.lightText}>Daily geography guessing puzzle with over 40,000 plays (launched Oct 2025)</li>
+              <li className={utilStyles.lightText}>Daily geography guessing puzzle with over 100,000 plays (launched Oct 2025)</li>
             </ul>
           </li>
           <li>
@@ -40,7 +40,7 @@ export default function Home() {
           <li>
             Researcher at Penn State
             <ul>
-              <li className={utilStyles.lightText}>Published <a href="https://honors.libraries.psu.edu/catalog/9008dmh6286" target="_blank">undergraduate thesis</a> on GPT-3 in education following its launch</li>
+              <li className={utilStyles.lightText}>Published <a href="https://honors.libraries.psu.edu/catalog/9008dmh6286" target="_blank">undergraduate thesis</a> on GPT-4 in education following its launch</li>
             </ul>
           </li>
         </ul>
