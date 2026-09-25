@@ -52,7 +52,7 @@ export default function Home() {
           <Link href="/about"><a>What I'm reading and writing</a></Link>
         </p>
         <p>
-          Connect with me on <a href="https://twitter.com/dvdhutch" target="_blank">twitter</a> or <a href="https://www.linkedin.com/in/dvdhutch/" target="_blank">linkedin</a>, or send a note to david at vevey dot ai.
+          Connect with me on <a href="https://twitter.com/dvdhutch" target="_blank">twitter</a> or <a href="https://www.linkedin.com/in/dvdhutch/" target="_blank">linkedin</a>, or send a note to david [at] helvetica-labs [dot] com.
         </p>
       </section>
     </Layout>
