@@ -14,6 +14,7 @@ const headerImages = [
   '/images/60973c7ae8c207a8.jpeg',
   '/images/290ef31e7db15171.jpeg',
   '/images/c2f6b3871e723ba7.jpeg',
+  '/images/30b9276c8589cef9.jpeg',
 ];
 
 export default function Home() {
